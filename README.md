@@ -13,5 +13,5 @@ This work is published under [MIT][mit] License.
 
 ## WiP
 
-[x] Shodan
-[ ] Lectures
+- [x] Shodan
+- [ ] Lectures
