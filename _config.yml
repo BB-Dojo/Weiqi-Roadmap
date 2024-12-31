@@ -52,7 +52,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: 1213 # fill in your GoatCounter ID
+    id: weiqi # fill in your GoatCounter ID
 
 # Page views settings
 pageviews:
