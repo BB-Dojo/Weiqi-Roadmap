@@ -11,9 +11,9 @@ permalink: /acknowledgement/
 <hr>
 
 1. <a href="https://aigp.org.in/" target="_blank">Association of Indian Go Players</a> - Wouldn't have resumed playing and would've never played on 19x19 without you guys encouraging me back in 2020.
-2. <a href="https://instagram.com/amartyaagrawal" target="_blank" rel="nofollow noopener noreferrer">Amartya</a> (OGS - HungryBradbury)- Thanks for the financial support, and also for the proofreading with the current roadmap.
+2. <a href="https://instagram.com/amartyaagrawal" target="_blank" rel="nofollow noopener noreferrer">Amartya</a> (OGS - HungryBradbury)- Thanks for the financial support to the Roadmap, and also for the proofreading you did.
 3. <a href="https://online-go.com/player/1306737/" target="_blank" rel="nofollow noopener noreferrer">Chinky</a> - Thanks for the UI ideas.
-4. <a href="https://gomagic.org/go-lessons/" target="_blank">Vadim Efimenko</a> - From the Go Magic team. Thank you for your tips/suggessions in version 3 of the roadmap.
+4. <a href="https://gomagic.org/go-lessons/" target="_blank">Vadim Efimenko</a> - From the Go Magic team. Thank you for your tips/suggessions in version 3.0.7 of the roadmap.
 
 ## Theme & Hosting 
 <hr>
@@ -30,7 +30,7 @@ permalink: /acknowledgement/
 
 1. Other Images collected from <a href="https://www.pinterest.com/" target="_blank" rel="nofollow noopener noreferrer">Pinterest</a>
 
-## People I consider my Teachers Even if I never got a direct lesson them(in Chronological Order)
+## People I consider my Teachers(in Chronological Order). Even if I never got a direct lesson from them.
 <hr>
 
 1. <a href="https://shawnsgogroup.com/" target="_blank" rel="nofollow noopener noreferrer">Shawn Ray(Clossius) 4D</a>
