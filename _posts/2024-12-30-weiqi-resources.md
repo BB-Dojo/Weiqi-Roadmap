@@ -3,8 +3,8 @@ title: Weiqi / Baduk Online Resources 2025
 description: A list of free online resources for the Game of Go / Baduk / Weiqi
 pin: true
 categories: [The Online Resources]
-tags: [resources, software, server, community, lectures, ai go, tools, art]
-date: 2025-05-02 00:00:00 +0530
+tags: [resources, software, server, community, lectures, ai, tools, art, schools]
+date: 2024-12-30 00:00:00 +0530
 ---
 
 > This page is **Pretty Long.** Use the **Table of Contents** to jump between sections....
@@ -25,31 +25,35 @@ date: 2025-05-02 00:00:00 +0530
 11. <a href="https://gopatterns.uk/" target="_blank" rel="nofollow noopener noreferrer">Go Patterns</a>
 12. <a href="https://www.learngo.co.uk/GoTutor/Tutor.php" target="_blank" rel="nofollow noopener noreferrer">Go Tutor</a>
 13. <a href="https://play.google.com/store/apps/details?id=pl.happydroid.goess" target="_blank" rel="nofollow noopener noreferrer">Go Dojo Android</a>
-14. <a href="https://count.4tc.xyz/" target="_blank" rel="nofollow noopener noreferrer">Counting Practice</a>
-15. <a href="https://online-go.com/review/1005264" target="_blank" rel="nofollow noopener noreferrer">Basic Instinct Practice</a> by FireScourge
-16. <a href="https://19x19.com/engine/index" target="_blank" rel="nofollow noopener noreferrer">Golaxy Online AI Tool</a> <a href="https://play.google.com/store/apps/details?id=com.golaxy.mobile&hl=en_IN" target="_blank" rel="nofollow noopener noreferrer">Golaxy Android App</a>
-17. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Game Stats Tools & News</a>
-18. <a href="https://shawnsgogroup.com/ogs-stats" target="_blank" rel="nofollow noopener noreferrer">OGS Stats Tool by Shawn Ray</a>
-19. <a href="https://play.baduk.org/" target="_blank" rel="nofollow noopener noreferrer">Check your rank from this quiz.</a>
-20. <a href="https://style.baduk.org/" target="_blank" rel="nofollow noopener noreferrer">Check your play style from this quiz.</a>
-21. <a href="https://mirthturtle.com/go" target="_blank" rel="nofollow noopener noreferrer">Shimari Go Platform</a>
-22. <a href="https://321go.org/home/" target="_blank" rel="nofollow noopener noreferrer">321Go</a>
-23. <a href="https://psalaets.github.io/ogs-move-timing/" target="_blank" rel="nofollow noopener noreferrer">OGS Move Timing Analysis</a>
-24. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview" target="_blank" rel="nofollow noopener noreferrer">AhQ Go: AI Analysis for Android</a>
-25. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.clock" target="_blank" rel="nofollow noopener noreferrer">AhQ Timer and score calculator for offline games</a>
-26. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.go.recorder" target="_blank" rel="nofollow noopener noreferrer">AhQ Live game kifu recorder</a>
-27. <a href="https://www.crazy-sensei.com/?lang=en&location=kifu_snap" target="_blank" rel="nofollow noopener noreferrer">Kifu Snap</a>
-28. <a href="https://play.google.com/store/apps/details?id=net.kir.baduk_ai" target="_blank" rel="nofollow noopener noreferrer">Baduk AI Android</a>
-29. <a href="https://www.smartgo.com/" target="_blank" rel="nofollow noopener noreferrer">Smart GO</a>: Mostly paid and Apple/iOS/MacOS only. But included as I really loved the free stuff in there.
+14. <a href="https://online-go.com/review/1005264" target="_blank" rel="nofollow noopener noreferrer">Basic Instinct Practice</a> by FireScourge
+15. <a href="https://19x19.com/engine/index" target="_blank" rel="nofollow noopener noreferrer">Golaxy Online AI Tool</a> <a href="https://play.google.com/store/apps/details?id=com.golaxy.mobile&hl=en_IN" target="_blank" rel="nofollow noopener noreferrer">Golaxy Android App</a>
+16. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Game Stats Tools & News</a>
+17. <a href="https://shawnsgogroup.com/ogs-stats" target="_blank" rel="nofollow noopener noreferrer">OGS Stats Tool by Shawn Ray</a>
+18. <a href="https://play.baduk.org/" target="_blank" rel="nofollow noopener noreferrer">Check your rank from this quiz.</a>
+19. <a href="https://style.baduk.org/" target="_blank" rel="nofollow noopener noreferrer">Check your play style from this quiz.</a>
+20. <a href="https://mirthturtle.com/go" target="_blank" rel="nofollow noopener noreferrer">Shimari Go Platform</a>
+21. <a href="https://321go.org/home/" target="_blank" rel="nofollow noopener noreferrer">321Go</a>
+22. <a href="https://psalaets.github.io/ogs-move-timing/" target="_blank" rel="nofollow noopener noreferrer">OGS Move Timing Analysis</a>
+23. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview" target="_blank" rel="nofollow noopener noreferrer">AhQ Go: AI Analysis for Android</a>
+24. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.clock" target="_blank" rel="nofollow noopener noreferrer">AhQ Timer and score calculator for offline games</a>
+25. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.go.recorder" target="_blank" rel="nofollow noopener noreferrer">AhQ Live game kifu recorder</a>
+26. <a href="https://www.crazy-sensei.com/?lang=en&location=kifu_snap" target="_blank" rel="nofollow noopener noreferrer">Kifu Snap</a>
+27. <a href="https://play.google.com/store/apps/details?id=net.kir.baduk_ai" target="_blank" rel="nofollow noopener noreferrer">Baduk AI Android</a>
+28. <a href="https://www.smartgo.com/" target="_blank" rel="nofollow noopener noreferrer">Smart GO</a>: Mostly paid and Apple/iOS/MacOS only. But included as I really loved the free stuff in there.
+29. <a href="https://sgf2video.netlify.app/" target="_blank" rel="nofollow noopener noreferrer">SGF to Video</a>
+30. <a href="https://board.tripleko.com/" target="_blank" rel="nofollow noopener noreferrer">Online Board with shared controls</a>
+31. <a href="https://glicko2-calculator.streamlit.app/" target="_blank" rel="nofollow noopener noreferrer">Glicko2 calculator</a>
 
 ## Tsumegos
 
 1. <a href="https://tsumego-hero.com/" target="_blank" rel="nofollow noopener noreferrer">Tsumego Hero</a>
 2. <a href="https://gomagic.org/go-problems/" target="_blank" rel="nofollow noopener noreferrer">GoMagic Skill Tree</a>
 3. Tsumego Pro - <a href="https://play.google.com/store/apps/details?id=net.lrstudios.android.tsumego_workshop&hl=en&gl=US" target="_blank" rel="nofollow noopener noreferrer">Android</a>, <a href="https://apps.apple.com/us/app/tsumego-pro-go-problems/id892041876" target="_blank" rel="nofollow noopener noreferrer">iOS</a>
-4. <a href="https://play.google.com/store/apps/details?id=net.gowrite.hactarLite" target="_blank" rel="nofollow noopener noreferrer">Hactar Go Lite</a> - Now only for old users, <a href="https://blog.gowrite.net/hactar-go-in-google-play/" target="_blank" rel="nofollow noopener noreferrer">See Reason</a>. If you know me enough to trust me, <a href="https://t.me/SoumyaK4" target="_blank" rel="nofollow noopener noreferrer">'DM me to get the apk(I'll upload it here soon.)'</a>.
+4. <a href="https://play.google.com/store/apps/details?id=net.gowrite.hactarLite" target="_blank" rel="nofollow noopener noreferrer">Hactar Go Lite</a> - Now only for old users, <a href="https://blog.gowrite.net/hactar-go-in-google-play/" target="_blank" rel="nofollow noopener noreferrer">See Reason</a>. If you know me enough to trust me, <a href="https://t.me/SoumyaK4" target="_blank" rel="nofollow noopener noreferrer">'DM me to get the apk'</a>.
 5. <a href="https://tsumegodragon.com/home" target="_blank" rel="nofollow noopener noreferrer">Tsumego Dragon by Clossius</a>
 6. <a href="https://www.101weiqi.com/">101Weiqi</a> - Use the <a href="https://www.google.com/search?q=101weiqi+localizer&oq=101weiqi+loca&gs_lcrp=EgZjaHJvbWUqCggCEAAYgAQYogQyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIGCAQQRRg80gEINTQ3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank" rel="nofollow noopener noreferrer"> Browser Extension for Proper Translation</a>
+    - <a href="https://www.101weiqi.com/spec/" target="_blank">The /spec page</a> categorizes different topics of tsumegos, but only accessible on pc or with subscription.
+    - <a href="https://www.101weiqi.com/book/" target="_blank">Books</a>
 7. <a href="https://tsumego.tasuki.org/" target="_blank" rel="nofollow noopener noreferrer">PDF Tsumego Collection</a>
 8. <a href="https://www.u-go.net/classic/" target="_blank" rel="nofollow noopener noreferrer">Classic Tsumegos</a>
 9. <a href="https://senseis.xmp.net/?ClassicalGoProblemBooks" target="_blank" rel="nofollow noopener noreferrer">Classical Tsumego Books</a>
@@ -59,6 +63,11 @@ date: 2025-05-02 00:00:00 +0530
 13. <a href="https://realgoproblems.com/" target="_blank" rel="nofollow noopener noreferrer">Real GO Problems</a>
 14. <a href="https://neuralnetgoproblems.com/" target="_blank" rel="nofollow noopener noreferrer">Neural-Net GO Problems</a>
 15. <a href="https://mygowiki.tiddlyspot.com/" target="_blank" rel="nofollow noopener noreferrer">My Go Wiki</a>
+16. <a href="https://blacktoplay.com" target="_blank" rel="nofollow noopener noreferrer">Black to Play</a>
+17. <a href="https://goguessrank.com/en" target="_blank" rel="nofollow noopener noreferrer">Guess the Ranks</a>
+18. <a href="https://101books.github.io/" target="_blank" rel="nofollow noopener noreferrer">101books</a> - More tsumego pdfs
+19. <a href="https://count.antontobi.com/" target="_blank" rel="nofollow noopener noreferrer">Counting Practice</a>
+20. <a href="https://tsumegod.soumyak4.in/" target="_blank">TsumeGod</a> - Telegram Tsumego Bot
 
 ## DataBases
 
@@ -70,7 +79,7 @@ date: 2025-05-02 00:00:00 +0530
 6. <a href="https://gobase.org/" target="_blank" rel="nofollow noopener noreferrer">Go Base</a>
 7. <a href="https://play.google.com/store/apps/details?id=pl.happydroid.goess&hl=en&gl=US" target="_blank" rel="nofollow noopener noreferrer">Go Dojo</a>
 8. <a href="https://fuseki.info/" target="_blank" rel="nofollow noopener noreferrer">Fuseki Study/Analysis</a>: There's also specefic ones for <a href="https://tygem.fuseki.info/" target="_blank" rel="nofollow noopener noreferrer">Tygem</a> & <a href="https://kgs.fuseki.info/" target="_blank" rel="nofollow noopener noreferrer">KGS</a>.
-9. <a href="https://www.1200igosharing.blog/en/blog" target="_blank" rel="nofollow noopener noreferrer"> Takumi's Blog</a>
+9. <a href="https://en.1200igo.com/" target="_blank" rel="nofollow noopener noreferrer"> Takumi's Free Resources</a>
 10. <a href="https://tesuji.uk/index1.php" target="_blank" rel="nofollow noopener noreferrer">Tesuji</a>
 11. <a href="https://haengma.uk/index1.php" target="_blank" rel="nofollow noopener noreferrer">Haengma</a>
 12. <a href="https://letsplaygo.com/" target="_blank" rel="nofollow noopener noreferrer">Lets Play Go</a>
@@ -80,6 +89,7 @@ date: 2025-05-02 00:00:00 +0530
 16. <a href="https://godb.shogidb2.com/en/" target="_blank" rel="nofollow noopener noreferrer">Go DB</a>
 17. <a href="https://goratings.org/" target="_blank" rel="nofollow noopener noreferrer">Go Ratings</a>
 18. <a href="https://db.u-go.net/" target="_blank" rel="nofollow noopener noreferrer">Go Players DataBase</a>
+19. <a href="https://baduktube.soumyak4.in/" target="_blank">BadukTube</a> - Youtube but only for Go Game
 
 <!-- 19. <a href="https://www.dropbox.com/scl/fo/55n3y0yblmad9kruj8gk0/ALJB9LS9AaG3_TBhdubljWk?rlkey=tpncnsc8zh285fsjlhshauvgj&st=x0swakor&dl=0" target="_blank" rel="nofollow noopener noreferrer">Collection of Books 1</a>
 1.  <a href="https://drive.google.com/drive/folders/1hjD17M3D2JHLQv3Cd_-Pga8M7K2AN0Jg?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">Collection of Books 2</a> -->
@@ -87,7 +97,7 @@ date: 2025-05-02 00:00:00 +0530
 ## Where to Play
 
 1. <a href="https://online-go.com/" target="_blank" rel="nofollow noopener noreferrer">OGS</a>
-2. <a href="https://www.foxwq.com/" target="_blank" rel="nofollow noopener noreferrer">Fox Weiqi</a> - Available for <a href="https://openfoxwq.github.io/" target="_blank" rel="nofollow noopener noreferrer"> Mac, Windows, Linux</a>. No Web Version, and Android one only available in Chinese Language.
+2. <a href="https://www.foxwq.com/" target="_blank" rel="nofollow noopener noreferrer">Fox Weiqi</a> - 3rd party <a href="https://walruswq.com/" target="_blank" rel="nofollow noopener noreferrer"> Mac, Windows, Linux, Android</a> clients available.
 3. <a href="https://yikewq.web.app/" target="_blank" rel="nofollow noopener noreferrer">Yike Weiqi English</a> & <a href="https://home.yikeweiqi.com/" target="_blank" rel="nofollow noopener noreferrer">Original Chinese Version</a>
 4. <a href="https://badukpop.com">Baduk Pop</a>
 5. <a href="https://www.google.com/search?q=the+world+go+baduk+app&oq=the+world+go+baduk+app&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDUxNzVqMWo0qAIAsAIB&sourceid=chrome&ie=UTF-8"
@@ -96,8 +106,9 @@ date: 2025-05-02 00:00:00 +0530
 7. <a href="https://torigo.io/" target="_blank" rel="nofollow noopener noreferrer">Torigo</a> - Borderless Go
 8. <a href="https://quantumgo.net/" target="_blank" rel="nofollow noopener noreferrer">QuantumGo</a> - Go but Quantum!!!!
 9. <a href="https://govariants.com" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server - play different variations of the game.</a>
-10. <a href="https://go.kahv.io/" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server(Outdated)</a>
-11. <a href="https://baduk.club/map/" target="_blank" rel="nofollow noopener noreferrer">Offline</a>
+10. <a href="https://explorebaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Explorebaduk - An european up and coming go server like OGS with a lot of promising features. </a>
+11. <a href="https://go.kahv.io/" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server(Outdated)</a>
+12. <a href="https://baduk.club/map/" target="_blank" rel="nofollow noopener noreferrer">Offline</a>
 
 ## Art Stuff
 
@@ -151,6 +162,7 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 32. <a href="https://www.youtube.com/@herewegameofgo" target="_blank" rel="nofollow noopener noreferrer">Here We Go</a>
 33. <a href="https://youtube.com/@starpointbaduk" target="_blank" rel="nofollow noopener noreferrer">Star Point Baduk</a>
 34. <a href="https://www.youtube.com/@gowithfanaro" target="_blank" rel="nofollow noopener noreferrer">Go with Philippe Fanaro</a>
+35. <a href="https://www.youtube.com/@zchenmike/" target="_blank" rel="nofollow noopener noreferrer">Michael Chen 1P</a>
 
 
 > **Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank" rel="nofollow noopener noreferrer">Resources Page by Online-Go.com</a> for non-English resources.**

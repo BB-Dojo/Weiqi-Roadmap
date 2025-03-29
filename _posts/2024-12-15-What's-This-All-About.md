@@ -2,7 +2,7 @@
 title: Why All the Buzz About Go?
 description: Discover the timeless appeal of the Surrounding Game, also known as Go (Igo/Baduk/Weiqi) in 2025.
 categories: [Introduction, What is Go]
-tags: [what is go, learn go game, learn to play go, go game tutorial, learn go]
+tags: [what is go, learn go game, learn to play go, chess, go game tutorial, learn go]
 pin: true
 date: 2024-12-15 00:00:00 +0530
 image: 
@@ -46,6 +46,8 @@ Go is about territory. Players use strategies like capture, isolation, and contr
 ---
 
 Go isn’t just a game — it’s a mental workout. Playing Go improves memory, focus, problem-solving, emotional resilience, and cognitive flexibility. It’s a timeless tool for sharpening the mind.
+
+You can check this [dedicated post](/posts/Benefits-of-Go) explaining why you should play go
 
 ### Recommended Resources to Learn the Benefits of Enjoying the Game of Go / Baduk / Weiqi
 
