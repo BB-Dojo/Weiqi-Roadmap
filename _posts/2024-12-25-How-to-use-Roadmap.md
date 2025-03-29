@@ -53,8 +53,4 @@ This roadmap is the core of your learning journey. Everything else on the site, 
 
 ---
 
-> This roadmap mostly reflects my personal perspective and experience. 
-> If you have suggestions, spot any broken links, or want [credits](/acknowledgement) for anything on this website, feel free to <a href='https://t.me/SoumyaK4/' target="_blank">reach out to me.</a>
-{: .prompt-danger}
-
 <script src="/assets/js/pwa-install.js" defer></script>
