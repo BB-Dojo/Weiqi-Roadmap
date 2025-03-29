@@ -39,10 +39,9 @@ date: 2024-12-30 00:00:00 +0530
 25. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.go.recorder" target="_blank" rel="nofollow noopener noreferrer">AhQ Live game kifu recorder</a>
 26. <a href="https://www.crazy-sensei.com/?lang=en&location=kifu_snap" target="_blank" rel="nofollow noopener noreferrer">Kifu Snap</a>
 27. <a href="https://play.google.com/store/apps/details?id=net.kir.baduk_ai" target="_blank" rel="nofollow noopener noreferrer">Baduk AI Android</a>
-28. <a href="https://www.smartgo.com/" target="_blank" rel="nofollow noopener noreferrer">Smart GO</a>: Mostly paid and Apple/iOS/MacOS only. But included as I really loved the free stuff in there.
-29. <a href="https://sgf2video.netlify.app/" target="_blank" rel="nofollow noopener noreferrer">SGF to Video</a>
-30. <a href="https://board.tripleko.com/" target="_blank" rel="nofollow noopener noreferrer">Online Board with shared controls</a>
-31. <a href="https://glicko2-calculator.streamlit.app/" target="_blank" rel="nofollow noopener noreferrer">Glicko2 calculator</a>
+28. <a href="https://sgf2video.netlify.app/" target="_blank" rel="nofollow noopener noreferrer">SGF to Video</a>
+29. <a href="https://board.tripleko.com/" target="_blank" rel="nofollow noopener noreferrer">Online Board with shared controls</a>
+30. <a href="https://glicko2-calculator.streamlit.app/" target="_blank" rel="nofollow noopener noreferrer">Glicko2 calculator</a>
 
 ## Tsumegos
 
@@ -164,6 +163,23 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 34. <a href="https://www.youtube.com/@gowithfanaro" target="_blank" rel="nofollow noopener noreferrer">Go with Philippe Fanaro</a>
 35. <a href="https://www.youtube.com/@zchenmike/" target="_blank" rel="nofollow noopener noreferrer">Michael Chen 1P</a>
 
+## Paid Stuff
+
+1. <a href="https://www.smartgo.com/" target="_blank" rel="nofollow noopener noreferrer">Smart GO</a>: Apple/iOS/MacOS only. 
+2. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.pro" target="_blank" rel="nofollow noopener noreferrer">AhQ Go Pro: AI Analysis for Android with Photo Recognition & Game Reports</a>
+3. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.go.recorder" target="_blank" rel="nofollow noopener noreferrer">AhQ Go Recorder: Play Against AI on Real Board using Android </a>
+4. <a href="https://awesomebaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Awesome Baduk</a>: Online School.
+5. <a href="https://gomagic.org/" target="_blank" rel="nofollow noopener noreferrer">Go Magic</a>: Online School(Freemium).
+   - You can get 50% discount on GoMagic Membership or Courses with code **COLCATAGC**
+6. <a href="https://yunguseng.com/" target="_blank" rel="nofollow noopener noreferrer">Yunguseng Dojang</a>: Online School.
+7. <a href="https://polgote.com/" target="_blank" rel="nofollow noopener noreferrer">Polgote</a>: Online School.
+8. <a href="https://shawnsgogroup.com/" target="_blank" rel="nofollow noopener noreferrer">Clossius'</a> Online School.
+9. <a href="https://www.benkyoleague.com/" target="_blank" rel="nofollow noopener noreferrer">BenKyo's'</a> Online School.
+10. <a href="https://www.patreon.com/dwyrin" target="_blank" rel="nofollow noopener noreferrer">Dwyrin's'</a> Online School.
+11. <a href="https://www.patreon.com/yoonyoung" target="_blank" rel="nofollow noopener noreferrer">Yoonyoung Kim's</a> Patreon.
+12. <a href="https://kazsensei.com/" target="_blank" rel="nofollow noopener noreferrer">Kaz Sensei's</a> Online School
+13. <a href="https://go4jigs.eu/" target="_blank" rel="nofollow noopener noreferrer">Jena international
+Go School</a>
 
 > **Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank" rel="nofollow noopener noreferrer">Resources Page by Online-Go.com</a> for non-English resources.**
 {: .prompt-info}
