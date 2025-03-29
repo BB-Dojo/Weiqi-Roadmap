@@ -170,7 +170,7 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 3. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.go.recorder" target="_blank" rel="nofollow noopener noreferrer">AhQ Go Recorder: Play Against AI on Real Board using Android </a>
 4. <a href="https://awesomebaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Awesome Baduk</a>: Online School.
 5. <a href="https://gomagic.org/" target="_blank" rel="nofollow noopener noreferrer">Go Magic</a>: Online School(Freemium).
-   - You can get 50% discount on GoMagic Membership or Courses with code **COLKATAGC**
+   - You can get 50% discount on GoMagic Membership or Courses with code **COLCATAGC**
 6. <a href="https://yunguseng.com/" target="_blank" rel="nofollow noopener noreferrer">Yunguseng Dojang</a>: Online School.
 7. <a href="https://polgote.com/" target="_blank" rel="nofollow noopener noreferrer">Polgote</a>: Online School.
 8. <a href="https://shawnsgogroup.com/" target="_blank" rel="nofollow noopener noreferrer">Clossius'</a> Online School.
