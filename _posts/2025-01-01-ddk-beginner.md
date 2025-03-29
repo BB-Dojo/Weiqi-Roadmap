@@ -2,7 +2,7 @@
 title: Your 25 Kyu Roadmap - Mastering Go for Complete Beginners
 description: A step-by-step guide for complete beginners to learn the rules, etiquette, and strategies of Go. Achieve 25 Kyu with ease!
 categories: [DDK Menu]
-tags: [go rules, beginner guide, rules, learn go, etiquette, puzzles, go game tutorial, 9x9]
+tags: [go rules, beginner guide, learn go, etiquette, puzzles, go game tutorial, 9x9]
 date: 2025-01-01 00:00:00 +0530
 ---
 
@@ -28,10 +28,12 @@ Dive into these beginner-friendly tutorials to learn the rules and fundamentals 
 ---
 
 Expand your understanding with these video resources:
-![](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2F2c521d1fb17a1d7030287958307e4dad.cdn.bubble.io%2Ff1683683179871x305409518608095400%2Fclossi-approach-draft-1.jpg?w=768&h=691&auto=compress&dpr=1&fit=max){: width="972" height="589" .w-50 .right}
+![Clossi Approach](/assets/img/posts/ca.png){: width="972" height="589" .w-50 .right}
+
 1. <a href="https://gomagic.org/courses/go-rules/" target="_blank" rel="nofollow noopener noreferrer">Crash Course</a> by Go Magic: A concise and engaging video series covering Go basics.
 2. <a href="https://youtube.com/playlist?list=PL4DLlaT_bvDG5y6WSfXU8cQsTsb4o3YnT&si=RI-5KXMm2W_zs40y" target="_blank" rel="nofollow noopener noreferrer">Go Basics Series</a> by Go Magic: Start from scratch and build a solid foundation in Go.
 3. <a href="https://youtube.com/playlist?list=PL5mVjO5OFYSymMy2Mixl7E5vpwFDO_0B4&si=C_V23Nfre_AJsK2M" target="_blank" rel="nofollow noopener noreferrer">Clossi Approach Series</a>: Watch the first five videos with "to 25k" in their titles.
+   - Read full <a href="https://shawnsgogroup.com/clossi_approach" target="_blank">Clossi Approach Article</a>
 4. **Here We GO Lecture Series**:
   - <a href="https://youtube.com/playlist?list=PLsIslX1eRChKX-lLgRQQJiXpKRASE46Bb&si=q7cp3u7IjAY-WNdW" target="_blank" rel="nofollow noopener noreferrer">Chapter 0 : Rules</a>
   - <a href="https://youtube.com/playlist?list=PLsIslX1eRChLKaZhzT6skMr33Jw3kV95E&si=_JYqZQhDTcgGY9z8" target="_blank" rel="nofollow noopener noreferrer">Chapter 1 : Capture</a>
