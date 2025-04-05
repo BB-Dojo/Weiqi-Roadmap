@@ -21,6 +21,10 @@ order: 3
 > Check the [Let's Go!!!!](https://soumyak4.in/project/Lets-Go/) page for changelogs and related projects.
 {: .prompt-tip}
 
+> This is a promotional discount for Go Magic
+> Use code **COLCATAGC** for a 50% discount on first purchase of membership or courses.
+{: .prompt-warning}
+
 For Acknowledements [Click Here](/acknowledgement)
 
 > This roadmap mostly reflects my personal perspective and experience. 
