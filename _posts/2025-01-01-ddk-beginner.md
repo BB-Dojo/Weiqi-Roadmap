@@ -13,7 +13,7 @@ date: 2025-01-01 00:00:00 +0530
 
 Welcome to your journey into the fascinating world of Go! This guide will equip you with the essential knowledge and skills to reach 25 Kyu. Follow this roadmap to learn Go's rules, master basic tactics, and enjoy the game.
 
-## Interactive Tutorials for Beginners
+## 🔖 Interactive Tutorials for Beginners
 
 ---
 
@@ -23,7 +23,7 @@ Dive into these beginner-friendly tutorials to learn the rules and fundamentals 
 3. <a href="https://www.learn-go.net/" target="_blank" rel="nofollow noopener noreferrer">Learn-Go.net</a>: A structured guide designed for complete beginners.
 4. <a href="https://online-go.com/learn-to-play-go" target="_blank" rel="nofollow noopener noreferrer">OGS Tutorial</a>: Learn and practice directly on the Online Go Server platform.
 
-## Beginner Lectures and Video Tutorials
+## 🎥 Beginner Lectures and Video Tutorials
 
 ---
 
@@ -40,7 +40,7 @@ Expand your understanding with these video resources:
   - <a href="https://youtube.com/playlist?list=PLsIslX1eRChJ2cm4dzaP4WCWR_tkqlO3H&si=WTtsb8uNti1j0MJU" target="_blank" rel="nofollow noopener noreferrer">Chapter 2 : Life & Death</a>
 5. <a href="https://youtu.be/cnW9dHvxOc0?si=g7onarM5xu6DjVHm" target="_blank" rel="nofollow noopener noreferrer">Go Etiquette Guide</a>: Understand the cultural and social etiquette of playing Go. 
 
-## Practice with Tsumegos (Puzzles)
+## 🧩 Practice with Tsumegos (Puzzles)
 
 ---
 
@@ -49,7 +49,7 @@ Develop your tactical skills by solving puzzles:
 2. <a href="https://gomagic.org/go-problems/" target="_blank" rel="nofollow noopener noreferrer">GoMagic’s Skill Tree</a> 
    - Complete **ABCs of Magic** through **Endgame 9x9** to solidify your basics.
 
-## Play and Practice: Your First Games 
+## 🎮 Play and Practice: Your First Games 
 
 ---
 
