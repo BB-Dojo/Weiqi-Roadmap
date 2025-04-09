@@ -43,6 +43,13 @@ layout: compress
       "label": "Dashboard view with blog and TOC"
     },
     {
+      "src": "mobile.png",
+      "sizes": "1366x768",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "mobile views"
+    },
+    {
       "src": "home.png", 
       "sizes": "1366x768",
       "type": "image/png",
@@ -57,32 +64,11 @@ layout: compress
       "label": "Dashboard view with blog and TOC"
     },
     {
-      "src": "home-m.png",
-      "sizes": "309x676",
+      "src": "mobile.png",
+      "sizes": "1366x768",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Home Mobile View"
-    },
-    {
-      "src": "dash-m.png",
-      "sizes": "309x676",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Menu Mobile View"
-    },
-    {
-      "src": "roadmap-m.png",
-      "sizes": "309x676",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Roadmap mobile view"
-    },
-    {
-      "src": "toc-m.png",
-      "sizes": "309x676",
-      "type": "image/png",
-      "platform": "android",
-      "label": "Blog screen showing toc mobile view"
+      "label": "mobile views"
     }],
     "shortcuts": [
     {
@@ -101,6 +87,18 @@ layout: compress
       "name": "Roadmap",
       "short_name": "Roadmap",
       "url": "{{ '/roadmap' | relative_url }}",
+      "icons": [
+        {
+          "src": "{{ favicon_path }}/android-chrome-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Lectures",
+      "short_name": "Lectures",
+      "url": "{{ '/lectures' | relative_url }}",
       "icons": [
         {
           "src": "{{ favicon_path }}/android-chrome-192x192.png",
