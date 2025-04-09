@@ -98,6 +98,7 @@ layout: compress
     {
       "name": "Lectures",
       "short_name": "Lectures",
+      "description": "Browse curated lecture collections",
       "url": "{{ '/lectures' | relative_url }}",
       "icons": [
         {
