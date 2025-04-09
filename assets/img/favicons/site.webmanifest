@@ -29,7 +29,7 @@ layout: compress
     }],
     "screenshots": [
     {
-      "src": "home.png",
+      "src": "home.png", 
       "sizes": "1366x768",
       "type": "image/png",
       "form_factor": "wide",
@@ -43,29 +43,43 @@ layout: compress
       "label": "Dashboard view with blog and TOC"
     },
     {
-      "src": "Home-m.png",
-      "sizes": "1080x2400",
+      "src": "home.png", 
+      "sizes": "1366x768",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Home screen showing main navigation and featured content"
+    },
+    {
+      "src": "dash.png",
+      "sizes": "1366x768",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Dashboard view with blog and TOC"
+    },
+    {
+      "src": "home-m.png",
+      "sizes": "309x676",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Home Mobile View"
     },
     {
       "src": "dash-m.png",
-      "sizes": "1080x2400",
+      "sizes": "309x676",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Menu Mobile View"
     },
     {
       "src": "roadmap-m.png",
-      "sizes": "1080x2400",
+      "sizes": "309x676",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Roadmap mobile view"
     },
     {
       "src": "toc-m.png",
-      "sizes": "1080x2400",
+      "sizes": "309x676",
       "type": "image/png",
       "platform": "android",
       "label": "Blog screen showing toc mobile view"
