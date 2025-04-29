@@ -53,6 +53,7 @@ date: 2024-12-30 00:00:00 +0530
 19. <a href="https://baduktube.soumyak4.in/" target="_blank">BadukTube</a> - Youtube but only for Go Game
 20. <a href="https://gobyexample.uk/" target="_blank" rel="nofollow noopener noreferrer">Go By Example</a>
 21. <a href="https://gopatterns.uk/" target="_blank" rel="nofollow noopener noreferrer">Go Patterns</a>
+22. <a href="http://eidogo.com/" target="_blank" rel="nofollow noopener noreferrer">EidoGo</a>(Outdated)
 
 ## Tools
 
@@ -73,8 +74,9 @@ date: 2024-12-30 00:00:00 +0530
 15. <a href="https://board.tripleko.com/" target="_blank" rel="nofollow noopener noreferrer">Online Board with shared controls</a>
 16. <a href="https://play.google.com/store/apps/details?id=pl.happydroid.goess" target="_blank" rel="nofollow noopener noreferrer">Go Dojo Android</a> - Guess the moves.
 17. <a href="https://www.learngo.co.uk/GoTutor/Tutor.php" target="_blank" rel="nofollow noopener noreferrer">Go Tutor</a>
-18. <a href="https://online-go.com/review/1005264" target="_blank" rel="nofollow noopener noreferrer">Basic Instinct Practice</a> by FireScourge
-19. <a href="https://www.goclubs.org/dbm/Tlogin.php" target="_blank" rel="nofollow noopener noreferrer">GoClubs</a> - For Club Admins
+18. <a href="https://online-go.com/review/1005264" target="_blank" rel="nofollow noopener noreferrer">Basic Instinct Practice</a> by - FireScourge
+19. <a href="https://gokibitz.com/" target="_blank" rel="nofollow noopener noreferrer">GoKibitz</a>
+20. <a href="https://www.goclubs.org/dbm/Tlogin.php" target="_blank" rel="nofollow noopener noreferrer">GoClubs</a> - For Club Admins
 
 ## Tsumegos
 
@@ -120,9 +122,10 @@ date: 2024-12-30 00:00:00 +0530
 2. <a href="https://github.com/sanderland/katrain/releases/latest" target="_blank" rel="nofollow noopener noreferrer">Katrain</a> – A Software that uses KataGo AI to train you. I love the teaching games feature.
 3. <a href="https://github.com/featurecat/lizzie/releases/latest" target="_blank" rel="nofollow noopener noreferrer">Lizzie</a> – A GUI for LeelaZero AI
 4. <a href="https://www.19x19.com/engine/index" target="_blank" rel="nofollow noopener noreferrer">Golaxy</a> - China's popular AI training tool. <a href="https://play.google.com/store/apps/details?id=com.golaxy.mobile&hl=en_IN" target="_blank" rel="nofollow noopener noreferrer">Golaxy Android App</a>
-5.  <a href="https://321go.org/home/" target="_blank" rel="nofollow noopener noreferrer">321Go</a>
-6.  <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview" target="_blank" rel="nofollow noopener noreferrer">AhQ Go: AI Analysis for Android</a>
-7.  <a href="https://play.google.com/store/apps/details?id=net.kir.baduk_ai" target="_blank" rel="nofollow noopener noreferrer">Baduk AI Android</a>
+5. <a href="https://321go.org/home/" target="_blank" rel="nofollow noopener noreferrer">321Go</a>
+6. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview" target="_blank" rel="nofollow noopener noreferrer">AhQ Go: AI Analysis for Android</a>
+7. <a href="https://play.google.com/store/apps/details?id=net.kir.baduk_ai" target="_blank" rel="nofollow noopener noreferrer">Baduk AI Android</a>
+8. <a href="https://www.zbaduk.com/tools" target="_blank" rel="nofollow noopener noreferrer">ZBaduk</a> - Similar features like AI Sensei
 
 ## YouTube & Twitch Channels
 
