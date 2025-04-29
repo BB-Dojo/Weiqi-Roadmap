@@ -17,9 +17,9 @@ date: 2024-12-30 00:00:00 +0530
 3. MiniFox - <a href="https://walruswq.com/minifox" target="_blank" rel="nofollow noopener noreferrer">3rd Party Mac/Windows/Linux</a> clients for Fox.
 4. WeiqiHub - <a href="https://walruswq.com/WeiqiHub" target="_blank" rel="nofollow noopener noreferrer">3rd Party Mac/Windows/Linux & iOS/Android</a> clients for Fox & Tygem.
 5. Pandanet/IGS(The first Online Go Server) - <a href="https://pandanet-igs.com/communities/pandanet" target="_blank" rel="nofollow noopener noreferrer">Windows/Mac/Linux/Android</a>
-6. Tygem - <a href="http://www.tygemgo.com/" target="_blank" rel="nofollow noopener noreferrer">Windows, Android & iOS</a>.
+6. Tygem - <a href="https://www.tygemgo.com/" target="_blank" rel="nofollow noopener noreferrer">Windows, Android & iOS</a>.
 7. YikeWQ - <a href="https://yikewq.web.app/" target="_blank" rel="nofollow noopener noreferrer">English</a> & <a href="https://home.yikeweiqi.com/" target="_blank" rel="nofollow noopener noreferrer">Chinese</a>.
-8. <a href="http://questgames.net/go13" target="_blank" rel="nofollow noopener noreferrer">Goquest Web</a>, <a href="https://play.google.com/store/apps/details?id=fm.wars.goquest&hl=en" target="_blank" rel="nofollow noopener noreferrer">Android</a> & <a href="https://apps.apple.com/us/app/goquest/id834841918?ls=1" target="_blank" rel="nofollow noopener noreferrer">iOS</a>
+8. <a href="https://questgames.net/go13" target="_blank" rel="nofollow noopener noreferrer">Goquest Web</a>, <a href="https://play.google.com/store/apps/details?id=fm.wars.goquest&hl=en" target="_blank" rel="nofollow noopener noreferrer">Android</a> & <a href="https://apps.apple.com/us/app/goquest/id834841918?ls=1" target="_blank" rel="nofollow noopener noreferrer">iOS</a>
 9. <a href="https://play.google.com/store/apps/details?id=com.mastergames.bestgoglobal&hl=en_IN" target="_blank" rel="nofollow noopener noreferrer">The World GO</a> - Android.
 10. Baduk Pop - <a href="https://badukpop.com" target="_blank" rel="nofollow noopener noreferrer">Web, Android & iOS.</a>
 11. <a href="https://baduk.netmarble.net/" target="_blank" rel="nofollow noopener noreferrer">Netmarble Baduk</a>
@@ -36,7 +36,7 @@ date: 2024-12-30 00:00:00 +0530
 2. <a href="https://www.josekipedia.com/" target="_blank" rel="nofollow noopener noreferrer">Josekipedia</a>
 3. <a href="https://ps.waltheri.net/" target="_blank" rel="nofollow noopener noreferrer">Walthari Pattern Search</a>
 4. <a href="https://www.go4go.net/" target="_blank" rel="nofollow noopener noreferrer">Go4Go</a> - Game Records
-5. <a href="http://gokifu.com/index.php" target="_blank" rel="nofollow noopener noreferrer">Go Kifu</a> - Game Records
+5. <a href="https://gokifu.com/index.php" target="_blank" rel="nofollow noopener noreferrer">Go Kifu</a> - Game Records
 6. <a href="https://gobase.org/" target="_blank" rel="nofollow noopener noreferrer">Go Base</a> - Game Records, News, Study Resources
 7. <a href="https://kifudepot.net/" target="_blank" rel="nofollow noopener noreferrer">Kifu Depot</a> - Game Records
 8. <a href="https://fuseki.info/" target="_blank" rel="nofollow noopener noreferrer">Fuseki Study/Analysis</a>: There's also specefic ones for <a href="https://tygem.fuseki.info/" target="_blank" rel="nofollow noopener noreferrer">Tygem</a> & <a href="https://kgs.fuseki.info/" target="_blank" rel="nofollow noopener noreferrer">KGS</a>.
@@ -53,7 +53,7 @@ date: 2024-12-30 00:00:00 +0530
 19. <a href="https://baduktube.soumyak4.in/" target="_blank">BadukTube</a> - Youtube but only for Go Game
 20. <a href="https://gobyexample.uk/" target="_blank" rel="nofollow noopener noreferrer">Go By Example</a>
 21. <a href="https://gopatterns.uk/" target="_blank" rel="nofollow noopener noreferrer">Go Patterns</a>
-22. <a href="http://eidogo.com/" target="_blank" rel="nofollow noopener noreferrer">EidoGo</a>(Outdated)
+22. <a href="https://eidogo.com/" target="_blank" rel="nofollow noopener noreferrer">EidoGo</a>(Outdated)
 
 ## Tools
 
