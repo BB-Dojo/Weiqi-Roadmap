@@ -83,7 +83,6 @@ date: 2024-12-30 00:00:00 +0530
 1. <a href="https://tsumego-hero.com/" target="_blank" rel="nofollow noopener noreferrer">Tsumego Hero</a>
 2. <a href="https://gomagic.org/go-problems/" target="_blank" rel="nofollow noopener noreferrer">GoMagic Skill Tree</a>
 3. <a href="https://www.101weiqi.com/">101Weiqi</a> - Use the <a href="https://www.google.com/search?q=101weiqi+localizer&oq=101weiqi+loca&gs_lcrp=EgZjaHJvbWUqCggCEAAYgAQYogQyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIGCAQQRRg80gEINTQ3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank" rel="nofollow noopener noreferrer"> Browser Extension for Proper Translation</a>
-    - <a href="https://www.101weiqi.com/spec/" target="_blank">The /spec page</a> categorizes different topics of tsumegos, but only accessible on pc or with subscription.
     - <a href="https://www.101weiqi.com/book/" target="_blank">Books</a>
 4. WeiqiHub - <a href="https://walruswq.com/WeiqiHub" target="_blank" rel="nofollow noopener noreferrer">Mac/Windows/Linux & iOS/Android</a> - Offline Tsumegos from 101Weiqi
 5. Tsumego Pro - <a href="https://play.google.com/store/apps/details?id=net.lrstudios.android.tsumego_workshop&hl=en&gl=US" target="_blank" rel="nofollow noopener noreferrer">Android</a>, <a href="https://apps.apple.com/us/app/tsumego-pro-go-problems/id892041876" target="_blank" rel="nofollow noopener noreferrer">iOS</a>
