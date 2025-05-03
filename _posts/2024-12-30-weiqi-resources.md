@@ -83,7 +83,6 @@ date: 2024-12-30 00:00:00 +0530
 1. <a href="https://tsumego-hero.com/" target="_blank" rel="nofollow noopener noreferrer">Tsumego Hero</a>
 2. <a href="https://gomagic.org/go-problems/" target="_blank" rel="nofollow noopener noreferrer">GoMagic Skill Tree</a>
 3. <a href="https://www.101weiqi.com/">101Weiqi</a> - Use the <a href="https://www.google.com/search?q=101weiqi+localizer&oq=101weiqi+loca&gs_lcrp=EgZjaHJvbWUqCggCEAAYgAQYogQyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIGCAQQRRg80gEINTQ3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank" rel="nofollow noopener noreferrer"> Browser Extension for Proper Translation</a>
-    - <a href="https://www.101weiqi.com/spec/" target="_blank">The /spec page</a> categorizes different topics of tsumegos, but only accessible on pc or with subscription.
     - <a href="https://www.101weiqi.com/book/" target="_blank">Books</a>
 4. WeiqiHub - <a href="https://walruswq.com/WeiqiHub" target="_blank" rel="nofollow noopener noreferrer">Mac/Windows/Linux & iOS/Android</a> - Offline Tsumegos from 101Weiqi
 5. Tsumego Pro - <a href="https://play.google.com/store/apps/details?id=net.lrstudios.android.tsumego_workshop&hl=en&gl=US" target="_blank" rel="nofollow noopener noreferrer">Android</a>, <a href="https://apps.apple.com/us/app/tsumego-pro-go-problems/id892041876" target="_blank" rel="nofollow noopener noreferrer">iOS</a>
@@ -183,24 +182,25 @@ date: 2024-12-30 00:00:00 +0530
 
 Nothing here yet
 
-## Paid Stuff
+## Paid(& Freemium) Stuff
 
 1. <a href="https://www.smartgo.com/" target="_blank" rel="nofollow noopener noreferrer">SmartGO One</a>: Apple/iOS/MacOS only. 
 2. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.pro" target="_blank" rel="nofollow noopener noreferrer">AhQ Go Pro: AI Analysis for Android with Photo Recognition & Game Reports</a>
 3. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.go.recorder" target="_blank" rel="nofollow noopener noreferrer">AhQ Go Recorder: Play Against AI on Real Board using Android </a>
-4. <a href="https://awesomebaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Awesome Baduk</a>: Online School.
-5. <a href="https://gomagic.org/" target="_blank" rel="nofollow noopener noreferrer">Go Magic</a>: Online School(Freemium).
+4. <a href="https://awesomebaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Awesome Baduk</a>: Online School & Course Platform by Professionals.
+5. <a href="https://gomagic.org/" target="_blank" rel="nofollow noopener noreferrer">Go Magic</a>: Online Course Platform(Freemium).
    - You can get 50% discount on GoMagic Membership or Courses with code **COLCATAGC**
 6. <a href="https://yunguseng.com/" target="_blank" rel="nofollow noopener noreferrer">Yunguseng Dojang</a>: Online School.
-7. <a href="https://polgote.com/" target="_blank" rel="nofollow noopener noreferrer">Polgote</a>: Online School.
-8. <a href="https://shawnsgogroup.com/" target="_blank" rel="nofollow noopener noreferrer">Clossius'</a> Online School.
-9. <a href="https://www.benkyoleague.com/" target="_blank" rel="nofollow noopener noreferrer">BenKyo's'</a> Online School.
-10. <a href="https://www.patreon.com/dwyrin" target="_blank" rel="nofollow noopener noreferrer">Dwyrin's'</a> Online School.
-11. <a href="https://www.patreon.com/yoonyoung" target="_blank" rel="nofollow noopener noreferrer">Yoonyoung Kim's</a> Patreon.
-12. <a href="https://kazsensei.com/" target="_blank" rel="nofollow noopener noreferrer">Kaz Sensei's</a> Online School
-13. <a href="https://go4jigs.eu/" target="_blank" rel="nofollow noopener noreferrer">Jena international Go School</a>
+7. <a href="https://www.heijiajia.com.tw/en-US" target="_blank" rel="nofollow noopener noreferrer">HJJ Go</a>: Online Go School by Hei JiaJia 7p, it has a lot of free stuff for guided learning.
+8. <a href="https://polgote.com/" target="_blank" rel="nofollow noopener noreferrer">Polgote</a>: Find a teacher online.
+9. <a href="https://shawnsgogroup.com/" target="_blank" rel="nofollow noopener noreferrer">Clossius'</a> Online School.
+10. <a href="https://www.benkyoleague.com/" target="_blank" rel="nofollow noopener noreferrer">BenKyo's'</a> Online School.
+11. <a href="https://www.patreon.com/dwyrin" target="_blank" rel="nofollow noopener noreferrer">Dwyrin's'</a> Online School.
+12. <a href="https://www.patreon.com/yoonyoung" target="_blank" rel="nofollow noopener noreferrer">Yoonyoung Kim's</a> Patreon.
+13. <a href="https://kazsensei.com/" target="_blank" rel="nofollow noopener noreferrer">Kaz Sensei's</a> Online School
+14. <a href="https://go4jigs.eu/" target="_blank" rel="nofollow noopener noreferrer">Jena international Go School</a>
 
-> **Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank" rel="nofollow noopener noreferrer">Resources Page by Online-Go.com</a> for non-English resources.**
+> **Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank" rel="nofollow noopener noreferrer">Resources Page by Online-Go.com</a> for more English & Non-English resources.**
 {: .prompt-info}
 
 <!-- <a href="https://mirthturtle.com/go" target="_blank" rel="nofollow noopener noreferrer">Shimari Go Platform</a> -->
