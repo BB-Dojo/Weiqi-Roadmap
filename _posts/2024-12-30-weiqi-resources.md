@@ -77,6 +77,8 @@ date: 2024-12-30 00:00:00 +0530
 18. <a href="https://online-go.com/review/1005264" target="_blank" rel="nofollow noopener noreferrer">Basic Instinct Practice</a> by - FireScourge
 19. <a href="https://gokibitz.com/" target="_blank" rel="nofollow noopener noreferrer">GoKibitz</a>
 20. <a href="https://www.goclubs.org/dbm/Tlogin.php" target="_blank" rel="nofollow noopener noreferrer">GoClubs</a> - For Club Admins
+21. <a href="https://sgf.raylu.net/" target="_blank" rel="nofollow noopener noreferrer">Play Guess the moves in browser</a>
+22. <a href="https://howdeepisyourgo.org/" target="_blank" rel="nofollow noopener noreferrer">How deep is your go.</a>
 
 ## Tsumegos
 
