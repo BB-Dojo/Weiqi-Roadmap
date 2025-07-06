@@ -79,6 +79,7 @@ date: 2024-12-30 00:00:00 +0530
 20. <a href="https://www.goclubs.org/dbm/Tlogin.php" target="_blank" rel="nofollow noopener noreferrer">GoClubs</a> - For Club Admins
 21. <a href="https://sgf.raylu.net/" target="_blank" rel="nofollow noopener noreferrer">Play Guess the moves in browser</a>
 22. <a href="https://howdeepisyourgo.org/" target="_blank" rel="nofollow noopener noreferrer">How deep is your go.</a>
+23. 
 
 ## Tsumegos
 
@@ -127,6 +128,7 @@ date: 2024-12-30 00:00:00 +0530
 6. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview" target="_blank" rel="nofollow noopener noreferrer">AhQ Go: AI Analysis for Android</a>
 7. <a href="https://play.google.com/store/apps/details?id=net.kir.baduk_ai" target="_blank" rel="nofollow noopener noreferrer">Baduk AI Android</a>
 8. <a href="https://www.zbaduk.com/tools" target="_blank" rel="nofollow noopener noreferrer">ZBaduk</a> - Similar features like AI Sensei
+9. <a href="https://pazoff.itch.io/go" target="_blank" rel="nofollow noopener noreferrer">Kata Tutor in Browser</a> - Similar to Katrain
 
 ## YouTube & Twitch Channels
 
