@@ -18,10 +18,10 @@ Welcome to your journey into the fascinating world of Go! This guide will equip 
 ---
 
 Dive into these beginner-friendly tutorials to learn the rules and fundamentals interactively:
-1. <a href="https://gomagic.org/how-to-play-go-rules/" target="_blank" rel="nofollow noopener noreferrer">How to Play Go</a> by Go Magic: A comprehensive introduction to Go's rules with interactive features.
-2. <a href="https://way-to-go.gitlab.io/#/en/intro" target="_blank" rel="nofollow noopener noreferrer">Way to Go</a>: Perfect for visual learners exploring Go concepts. 
-3. <a href="https://www.learn-go.net/" target="_blank" rel="nofollow noopener noreferrer">Learn-Go.net</a>: A structured guide designed for complete beginners.
-4. <a href="https://online-go.com/learn-to-play-go" target="_blank" rel="nofollow noopener noreferrer">OGS Tutorial</a>: Learn and practice directly on the Online Go Server platform.
+1. <a href="https://online-go.com/learn-to-play-go" target="_blank" rel="nofollow noopener noreferrer">OGS Tutorial</a>: Learn and practice directly on the Online Go Server platform.
+2. <a href="https://gomagic.org/how-to-play-go-rules/" target="_blank" rel="nofollow noopener noreferrer">How to Play Go</a> by Go Magic: A comprehensive introduction to Go's rules with interactive features.
+3. <a href="https://way-to-go.gitlab.io/#/en/intro" target="_blank" rel="nofollow noopener noreferrer">Way to Go</a>: Perfect for visual learners exploring Go concepts. 
+4. <a href="https://www.learn-go.net/" target="_blank" rel="nofollow noopener noreferrer">Learn-Go.net</a>: A structured guide designed for complete beginners.
 
 ## 🎥 Beginner Lectures and Video Tutorials
 
@@ -32,7 +32,7 @@ Expand your understanding with these video resources:
 
 1. <a href="https://gomagic.org/courses/go-rules/" target="_blank" rel="nofollow noopener noreferrer">Crash Course</a> by Go Magic: A concise and engaging video series covering Go basics.
 2. <a href="https://youtube.com/playlist?list=PL4DLlaT_bvDG5y6WSfXU8cQsTsb4o3YnT&si=RI-5KXMm2W_zs40y" target="_blank" rel="nofollow noopener noreferrer">Go Basics Series</a> by Go Magic: Start from scratch and build a solid foundation in Go.
-3. <a href="https://youtube.com/playlist?list=PL5mVjO5OFYSymMy2Mixl7E5vpwFDO_0B4&si=C_V23Nfre_AJsK2M" target="_blank" rel="nofollow noopener noreferrer">Clossi Approach Series</a>: Watch the first five videos with "to 25k" in their titles.
+3. <a href="https://baduktube.soumyak4.in/collection/1" target="_blank">Clossi Approach 9x9 Series</a>
    - Read full <a href="https://shawnsgogroup.com/clossi_approach" target="_blank">Clossi Approach Article</a>
 4. **Here We GO Lecture Series**:
   - <a href="https://youtube.com/playlist?list=PLsIslX1eRChKX-lLgRQQJiXpKRASE46Bb&si=q7cp3u7IjAY-WNdW" target="_blank" rel="nofollow noopener noreferrer">Chapter 0 : Rules</a>

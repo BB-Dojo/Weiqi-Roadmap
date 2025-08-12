@@ -13,22 +13,23 @@ date: 2024-12-30 00:00:00 +0530
 ## Where to Play
 
 1. <a href="https://online-go.com/" target="_blank" rel="nofollow noopener noreferrer">OGS</a> - Best place to play online.
-2. <a href="https://www.foxwq.com/" target="_blank" rel="nofollow noopener noreferrer">Fox Weiqi</a> - has partly translated english client for windows, Android app fully in Chinese.
-3. MiniFox - <a href="https://walruswq.com/minifox" target="_blank" rel="nofollow noopener noreferrer">3rd Party Mac/Windows/Linux</a> clients for Fox.
-4. WeiqiHub - <a href="https://walruswq.com/WeiqiHub" target="_blank" rel="nofollow noopener noreferrer">3rd Party Mac/Windows/Linux & iOS/Android</a> clients for Fox & Tygem.
-5. Pandanet/IGS(The first Online Go Server) - <a href="https://pandanet-igs.com/communities/pandanet" target="_blank" rel="nofollow noopener noreferrer">Windows/Mac/Linux/Android</a>
-6. Tygem - <a href="https://www.tygemgo.com/" target="_blank" rel="nofollow noopener noreferrer">Windows, Android & iOS</a>.
-7. YikeWQ - <a href="https://yikewq.web.app/" target="_blank" rel="nofollow noopener noreferrer">English</a> & <a href="https://home.yikeweiqi.com/" target="_blank" rel="nofollow noopener noreferrer">Chinese</a>.
-8. <a href="https://questgames.net/go13" target="_blank" rel="nofollow noopener noreferrer">Goquest Web</a>, <a href="https://play.google.com/store/apps/details?id=fm.wars.goquest&hl=en" target="_blank" rel="nofollow noopener noreferrer">Android</a> & <a href="https://apps.apple.com/us/app/goquest/id834841918?ls=1" target="_blank" rel="nofollow noopener noreferrer">iOS</a>
-9. <a href="https://play.google.com/store/apps/details?id=com.mastergames.bestgoglobal&hl=en_IN" target="_blank" rel="nofollow noopener noreferrer">The World GO</a> - Android.
-10. Baduk Pop - <a href="https://badukpop.com" target="_blank" rel="nofollow noopener noreferrer">Web, Android & iOS.</a>
-11. <a href="https://baduk.netmarble.net/" target="_blank" rel="nofollow noopener noreferrer">Netmarble Baduk</a>
-12. <a href="https://torigo.io/" target="_blank" rel="nofollow noopener noreferrer">Torigo</a> - Borderless Go
-13. <a href="https://quantumgo.net/" target="_blank" rel="nofollow noopener noreferrer">QuantumGo</a> - Go but Quantum!!!!
-14. <a href="https://govariants.com" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server</a> - Play different variations of the game.
-15. <a href="https://explorebaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Explorebaduk</a> - An European up and coming go server with a lot of promising features.
-16. <a href="https://go.kahv.io/" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server</a>(Doesn't Support Mobile Currently)
-17. <a href="https://baduk.club/map/" target="_blank" rel="nofollow noopener noreferrer">Baduk.Club</a> - Find Players/Places for offline games.
+2. <a href="https://puyogo.app/en/" target="_blank" rel="nofollow noopener noreferrer">Squishy Go</a> - Cute place to play go against bots.
+3. <a href="https://www.foxwq.com/" target="_blank" rel="nofollow noopener noreferrer">Fox Weiqi</a> - has partly translated english client for windows, Android app fully in Chinese.
+4. MiniFox - <a href="https://walruswq.com/minifox" target="_blank" rel="nofollow noopener noreferrer">3rd Party Mac/Windows/Linux</a> clients for Fox.
+5. WeiqiHub - <a href="https://walruswq.com/WeiqiHub" target="_blank" rel="nofollow noopener noreferrer">3rd Party Mac/Windows/Linux & iOS/Android</a> clients for Fox & Tygem.
+6. Pandanet/IGS(The first Online Go Server) - <a href="https://pandanet-igs.com/communities/pandanet" target="_blank" rel="nofollow noopener noreferrer">Windows/Mac/Linux/Android</a>
+7. Tygem - <a href="https://www.tygemgo.com/" target="_blank" rel="nofollow noopener noreferrer">Windows, Android & iOS</a>.
+8. YikeWQ - <a href="https://yikewq.web.app/" target="_blank" rel="nofollow noopener noreferrer">English</a> & <a href="https://home.yikeweiqi.com/" target="_blank" rel="nofollow noopener noreferrer">Chinese</a>.
+9. <a href="https://questgames.net/go13" target="_blank" rel="nofollow noopener noreferrer">Goquest Web</a>, <a href="https://play.google.com/store/apps/details?id=fm.wars.goquest&hl=en" target="_blank" rel="nofollow noopener noreferrer">Android</a> & <a href="https://apps.apple.com/us/app/goquest/id834841918?ls=1" target="_blank" rel="nofollow noopener noreferrer">iOS</a>
+10. <a href="https://play.google.com/store/apps/details?id=com.mastergames.bestgoglobal&hl=en_IN" target="_blank" rel="nofollow noopener noreferrer">The World GO</a> - Android.
+11. Baduk Pop - <a href="https://badukpop.com" target="_blank" rel="nofollow noopener noreferrer">Web, Android & iOS.</a>
+12. <a href="https://baduk.netmarble.net/" target="_blank" rel="nofollow noopener noreferrer">Netmarble Baduk</a>
+13. <a href="https://torigo.io/" target="_blank" rel="nofollow noopener noreferrer">Torigo</a> - Borderless Go
+14. <a href="https://quantumgo.net/" target="_blank" rel="nofollow noopener noreferrer">QuantumGo</a> - Go but Quantum!!!!
+15. <a href="https://govariants.com" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server</a> - Play different variations of the game.
+16. <a href="https://explorebaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Explorebaduk</a> - An European up and coming go server with a lot of promising features.
+17. <a href="https://go.kahv.io/" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server</a>(Doesn't Support Mobile Currently)
+18. <a href="https://baduk.club/map/" target="_blank" rel="nofollow noopener noreferrer">Baduk.Club</a> - Find Players/Places for offline games.
 
 ## DataBases & News
 
@@ -59,13 +60,14 @@ date: 2024-12-30 00:00:00 +0530
 
 1. <a href="https://online-go.com/" target="_blank" rel="nofollow noopener noreferrer">OGS Tools</a> - A bunch of tools inside OGS
 2. <a href="https://sabaki.yichuanshen.de/" target="_blank" rel="nofollow noopener noreferrer">Sabaki</a> – A SGF Editor where you can also analyze with AI
+   - <a href="https://sabaki.yichuanshen.de/web/#" target="_blank" rel="nofollow noopener noreferrer">Web Version</a>
 3. <a href="https://en.freedownloadmanager.org/Windows-PC/MultiGo-FREE.html" target="_blank" rel="nofollow noopener noreferrer">MultiGo</a> – My favourite SGF Editor.
 4. <a href="https://gowrite.net/" target="_blank" rel="nofollow noopener noreferrer">GOWrite</a> – Another nice looking SGF Editor.
 5. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Game Stats Tools & News </a>- Add any Association/Server ID and get Stats
 6. <a href="https://avavt.github.io/gotstats/" target="_blank" rel="nofollow noopener noreferrer">OGS Stats Tool</a> 
 7. <a href="https://shawnsgogroup.com/ogs-stats" target="_blank" rel="nofollow noopener noreferrer">OGS Stats Tool by Shawn Ray</a>
 8. <a href="https://play.baduk.org/" target="_blank" rel="nofollow noopener noreferrer">Check your rank from this quiz.</a>
-9. <a href="https://style.baduk.org/" target="_blank" rel="nofollow noopener noreferrer">Check your play style from this quiz.</a>
+9.  <a href="https://style.baduk.org/" target="_blank" rel="nofollow noopener noreferrer">Check your play style from this quiz.</a>
 10. <a href="https://psalaets.github.io/ogs-move-timing/" target="_blank" rel="nofollow noopener noreferrer">OGS Move Timing Analysis</a>
 11. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.clock" target="_blank" rel="nofollow noopener noreferrer">AhQ Timer (and paid score calculator from image) for offline games</a>
 12. <a href="https://www.crazy-sensei.com/?lang=en&location=kifu_snap" target="_blank" rel="nofollow noopener noreferrer">Kifu Snap</a>
@@ -79,7 +81,7 @@ date: 2024-12-30 00:00:00 +0530
 20. <a href="https://www.goclubs.org/dbm/Tlogin.php" target="_blank" rel="nofollow noopener noreferrer">GoClubs</a> - For Club Admins
 21. <a href="https://sgf.raylu.net/" target="_blank" rel="nofollow noopener noreferrer">Play Guess the moves in browser</a>
 22. <a href="https://howdeepisyourgo.org/" target="_blank" rel="nofollow noopener noreferrer">How deep is your go.</a>
-23. 
+23. <a href="https://mirthturtle.com/go" target="_blank" rel="nofollow noopener noreferrer">Shimari Go Platform</a>
 
 ## Tsumegos
 
@@ -106,6 +108,8 @@ date: 2024-12-30 00:00:00 +0530
 20. <a href="https://count.antontobi.com/" target="_blank" rel="nofollow noopener noreferrer">Counting Practice</a>
 21. <a href="https://tsumegod.soumyak4.in/" target="_blank">TsumeGod</a> - Telegram Tsumego Bot
 22. <a href="https://github.com/Skwidder/IGS-Puzzle-Bot" target="_blank">IGS Puzzle Bot</a> - Interactive Discord Tsumego Bot by Skwidder
+23. <a href="https://play.google.com/store/apps/details?id=com.romans.go.lifeordeath" target="_blank">Go: The Infinite Path</a>
+24. <a href="https://play.google.com/store/apps/details?id=kr.or.baduk.lob" target="_blank">Legend of Baduk</a>
 
 ## Online Communities
 
@@ -184,7 +188,9 @@ date: 2024-12-30 00:00:00 +0530
 
 ## Books
 
-Nothing here yet
+1. <a href="https://www.kango9school.com/25-essential-baduk-positions" target="_blank">25 Essential Positions</a>
+2. <a href="https://improve.tenuki.net/" target="_blank">Improve at Go</a>
+3. <a href="https://www.gobook.eu/" target="_blank">Multilingual Go Book Project</a>
 
 ## Paid(& Freemium) Stuff
 
@@ -207,6 +213,5 @@ Nothing here yet
 > **Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank" rel="nofollow noopener noreferrer">Resources Page by Online-Go.com</a> for more English & Non-English resources.**
 {: .prompt-info}
 
-<!-- <a href="https://mirthturtle.com/go" target="_blank" rel="nofollow noopener noreferrer">Shimari Go Platform</a> -->
 <!-- 19. <a href="https://www.dropbox.com/scl/fo/55n3y0yblmad9kruj8gk0/ALJB9LS9AaG3_TBhdubljWk?rlkey=tpncnsc8zh285fsjlhshauvgj&st=x0swakor&dl=0" target="_blank" rel="nofollow noopener noreferrer">Collection of Books 1</a>
 1.  <a href="https://drive.google.com/drive/folders/1hjD17M3D2JHLQv3Cd_-Pga8M7K2AN0Jg?usp=sharing" target="_blank" rel="nofollow noopener noreferrer">Collection of Books 2</a> -->
