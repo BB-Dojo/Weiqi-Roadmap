@@ -29,7 +29,11 @@ date: 2024-12-30 00:00:00 +0530
 15. <a href="https://govariants.com" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server</a> - Play different variations of the game.
 16. <a href="https://explorebaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Explorebaduk</a> - An European up and coming go server with a lot of promising features.
 17. <a href="https://go.kahv.io/" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server</a>(Doesn't Support Mobile Currently)
-18. <a href="https://baduk.club/map/" target="_blank" rel="nofollow noopener noreferrer">Baduk.Club</a> - Find Players/Places for offline games.
+18. <a href="https://www.wallbad.uk/" target="_blank" rel="nofollow noopener noreferrer">Wall Go</a> - Variant
+19. <a href="https://schaoss.github.io/wall-go/" target="_blank" rel="nofollow noopener noreferrer">Another Wall Go</a>
+20. <a href="https://dipgo.net/about" target="_blank" rel="nofollow noopener noreferrer">Diplomatic GO</a> - Variant
+21. <a href="https://baduk.club/map/" target="_blank" rel="nofollow noopener noreferrer">Baduk.Club</a> - Find Players/Places for offline games.
+22. <a href="https://jdespland.itch.io/weiqi-dungeon" target="_blank" rel="nofollow noopener noreferrer">Weiqi Dungeon</a>
 
 ## DataBases & News
 
@@ -51,10 +55,11 @@ date: 2024-12-30 00:00:00 +0530
 16. <a href="https://godb.shogidb2.com/en/" target="_blank" rel="nofollow noopener noreferrer">Go DB</a>
 17. <a href="https://goratings.org/" target="_blank" rel="nofollow noopener noreferrer">Go Ratings</a>
 18. <a href="https://db.u-go.net/" target="_blank" rel="nofollow noopener noreferrer">Go Players DataBase</a>
-19. <a href="https://baduktube.soumyak4.in/" target="_blank">BadukTube</a> - Youtube but only for Go Game
+19. <a href="https://baduktube.soumyak4.in/" target="_blank">BadukTube</a> - Youtube but only for Go Game Lectures
 20. <a href="https://gobyexample.uk/" target="_blank" rel="nofollow noopener noreferrer">Go By Example</a>
 21. <a href="https://gopatterns.uk/" target="_blank" rel="nofollow noopener noreferrer">Go Patterns</a>
-22. <a href="https://eidogo.com/" target="_blank" rel="nofollow noopener noreferrer">EidoGo</a>(Outdated)
+22. <a href="https://eidogo.com/" target="_blank" rel="nofollow noopener noreferrer">EidoGo</a>(Outdated Joseki Database)
+23. <a href="https://gotoeveryone.k2ss.info/" target="_blank" rel="nofollow noopener noreferrer">Go to Everyone</a> - Latest News
 
 ## Tools
 
@@ -82,6 +87,7 @@ date: 2024-12-30 00:00:00 +0530
 21. <a href="https://sgf.raylu.net/" target="_blank" rel="nofollow noopener noreferrer">Play Guess the moves in browser</a>
 22. <a href="https://howdeepisyourgo.org/" target="_blank" rel="nofollow noopener noreferrer">How deep is your go.</a>
 23. <a href="https://mirthturtle.com/go" target="_blank" rel="nofollow noopener noreferrer">Shimari Go Platform</a>
+24. <a href="https://random-go.antontobi.com/#" target="_blank" rel="nofollow noopener noreferrer">Random Position Generator</a>
 
 ## Tsumegos
 
@@ -105,11 +111,13 @@ date: 2024-12-30 00:00:00 +0530
 17. <a href="https://blacktoplay.com" target="_blank" rel="nofollow noopener noreferrer">Black to Play</a>
 18. <a href="https://goguessrank.com/en" target="_blank" rel="nofollow noopener noreferrer">Guess the Ranks</a>
 19. <a href="https://101books.github.io/" target="_blank" rel="nofollow noopener noreferrer">101books</a> - More tsumego pdfs
+    - <a href="https://weiqi-master.github.io/" target="_blank" rel="nofollow noopener noreferrer">Latest Version</a>
 20. <a href="https://count.antontobi.com/" target="_blank" rel="nofollow noopener noreferrer">Counting Practice</a>
 21. <a href="https://tsumegod.soumyak4.in/" target="_blank">TsumeGod</a> - Telegram Tsumego Bot
-22. <a href="https://github.com/Skwidder/IGS-Puzzle-Bot" target="_blank">IGS Puzzle Bot</a> - Interactive Discord Tsumego Bot by Skwidder
-23. <a href="https://play.google.com/store/apps/details?id=com.romans.go.lifeordeath" target="_blank">Go: The Infinite Path</a>
-24. <a href="https://play.google.com/store/apps/details?id=kr.or.baduk.lob" target="_blank">Legend of Baduk</a>
+22. <a href="https://github.com/Skwidder/IGS-Puzzle-Bot" target="_blank" rel="nofollow noopener noreferrer">IGS Puzzle Bot</a> - Interactive Discord Tsumego Bot by Skwidder
+23. <a href="https://play.google.com/store/apps/details?id=com.romans.go.lifeordeath" target="_blank" rel="nofollow noopener noreferrer">Go: The Infinite Path</a>
+24. <a href="https://play.google.com/store/apps/details?id=kr.or.baduk.lob" target="_blank" rel="nofollow noopener noreferrer">Legend of Baduk</a>
+25. <a href="https://seizethestones.com/" target="_blank" rel="nofollow noopener noreferrer">Seize The Stones</a> - Fun Puzzles
 
 ## Online Communities
 
@@ -188,9 +196,12 @@ date: 2024-12-30 00:00:00 +0530
 
 ## Books
 
-1. <a href="https://www.kango9school.com/25-essential-baduk-positions" target="_blank">25 Essential Positions</a>
-2. <a href="https://improve.tenuki.net/" target="_blank">Improve at Go</a>
-3. <a href="https://www.gobook.eu/" target="_blank">Multilingual Go Book Project</a>
+1. <a href="https://www.kango9school.com/25-essential-baduk-positions" target="_blank" rel="nofollow noopener noreferrer">25 Essential Positions</a> by - <a href="https://www.kango9school.com/" target="_blank" rel="nofollow noopener noreferrer">George Gigoi 7D</a>
+2. <a href="https://improve.tenuki.net/" target="_blank" rel="nofollow noopener noreferrer">Improve at Go</a>
+3. <a href="https://www.gobook.eu/" target="_blank" rel="nofollow noopener noreferrer">Multilingual Go Book Project</a>
+4. <a href="https://9x9go.github.io/superhuman/icover.html" target="_blank" rel="nofollow noopener noreferrer">The Art of 9 x 9 Go, Superhuman Edition</a>
+5. <a href="https://gotimes.substack.com/" target="_blank" rel="nofollow noopener noreferrer">Online Magazine</a>
+6. <a href="https://dfan.org/blog/posts/" target="_blank" rel="nofollow noopener noreferrer">dfan's Go Blog/Guide</a>
 
 ## Paid(& Freemium) Stuff
 
@@ -204,11 +215,12 @@ date: 2024-12-30 00:00:00 +0530
 7. <a href="https://www.heijiajia.com.tw/en-US" target="_blank" rel="nofollow noopener noreferrer">HJJ Go</a>: Online Go School by Hei JiaJia 7p, it has a lot of free stuff for guided learning.
 8. <a href="https://polgote.com/" target="_blank" rel="nofollow noopener noreferrer">Polgote</a>: Find a teacher online.
 9. <a href="https://shawnsgogroup.com/" target="_blank" rel="nofollow noopener noreferrer">Clossius'</a> Online School.
-10. <a href="https://www.benkyoleague.com/" target="_blank" rel="nofollow noopener noreferrer">BenKyo's'</a> Online School.
-11. <a href="https://www.patreon.com/dwyrin" target="_blank" rel="nofollow noopener noreferrer">Dwyrin's'</a> Online School.
+10. <a href="https://www.benkyoleague.com/" target="_blank" rel="nofollow noopener noreferrer">BenKyo's</a> Online School.
+11. <a href="https://www.patreon.com/dwyrin" target="_blank" rel="nofollow noopener noreferrer">Dwyrin's</a> Online School.
 12. <a href="https://www.patreon.com/yoonyoung" target="_blank" rel="nofollow noopener noreferrer">Yoonyoung Kim's</a> Patreon.
 13. <a href="https://kazsensei.com/" target="_blank" rel="nofollow noopener noreferrer">Kaz Sensei's</a> Online School
-14. <a href="https://go4jigs.eu/" target="_blank" rel="nofollow noopener noreferrer">Jena international Go School</a>
+14. <a href="https://go4jigs.eu/" target="_blank" rel="nofollow noopener noreferrer">Jena International Go School</a>
+15. <a href="https://zxnashx.itch.io/beginner-go-game" target="_blank" rel="nofollow noopener noreferrer">Companion Baduk</a> - Paid
 
 > **Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank" rel="nofollow noopener noreferrer">Resources Page by Online-Go.com</a> for more English & Non-English resources.**
 {: .prompt-info}
