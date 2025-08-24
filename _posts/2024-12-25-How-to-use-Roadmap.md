@@ -2,7 +2,7 @@
 title: How to Use the Weiqi Roadmap?
 description: A comprehensive guide to navigating this website and mastering the game of Go.
 categories: [Introduction, How to Use the Roadmap]
-tags: [baduk roadmap, weiqi roadmap, learn to play go, go game tutorial, learn go]
+tags: [baduk roadmap, weiqi roadmap, learn to play go, go game tutorial, learn go, go game guide]
 pin: true
 date: 2024-12-25 00:00:00 +0530
 ---
