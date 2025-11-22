@@ -9,12 +9,6 @@
 
 /* append your custom style below */
 
-// make sure hashtag isnt shown when hovering on headings 
-.fa-hashtag:before {
-    content: none !important;
-}
-
-
 // sidebar mobile icon change on menu open 
 body[sidebar-display] {
   .fa-bars:before,
@@ -54,3 +48,41 @@ a.journey:hover {
 }
 
 
+/* ------------ Remove hover underline for hashtag icon (Chirpy) ------------ */
+
+/* Target the icon and its pseudo-element */
+.fa-hashtag,
+.fa-hashtag:before {
+  /* hide any content fallback and remove visual decorations */
+  content: "" !important;
+  display: inline-block !important;
+  width: auto !important;
+  line-height: 1 !important;
+  vertical-align: baseline !important;
+
+  /* block any text-decoration / underline / shadow */
+  text-decoration: none !important;
+  text-decoration-skip-ink: none !important; /* modern browsers */
+  -webkit-text-decoration-skip-ink: none !important; /* webkit fallback */
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* If the icon sits inside a link, prevent link hover from painting an underline on top of the icon */
+// a .fa-hashtag,
+// a .fa-hashtag:before,
+// a:hover .fa-hashtag,
+// a:focus .fa-hashtag,
+// a:hover .fa-hashtag:before,
+// a:focus .fa-hashtag:before {
+//   text-decoration: none !important;
+//   border-bottom: none !important;
+//   box-shadow: none !important;
+//   content: "" !important;
+//   display: inline-block !important;
+// }
+
+/* Optional: make it non-interactive if you don't need clicks on it */
+// .fa-hashtag {
+//   pointer-events: none !important;
+// }

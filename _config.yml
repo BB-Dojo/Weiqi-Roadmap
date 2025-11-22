@@ -156,7 +156,7 @@ exclude:
   - README.md
   - LICENSE
   - purgecss.js
-  - "config.js"
+  - "*.config.js"
   - "package*.json"
 
 jekyll-archives:
