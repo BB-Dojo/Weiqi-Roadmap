@@ -68,7 +68,7 @@ date: 2024-12-30 00:00:00 +0530
    - <a href="https://sabaki.yichuanshen.de/web/#" target="_blank" rel="nofollow noopener noreferrer">Web Version</a>
 3. <a href="https://en.freedownloadmanager.org/Windows-PC/MultiGo-FREE.html" target="_blank" rel="nofollow noopener noreferrer">MultiGo</a> – My favourite SGF Editor.
 4. <a href="https://gowrite.net/" target="_blank" rel="nofollow noopener noreferrer">GOWrite</a> – Another nice looking SGF Editor.
-5. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Game Stats Tools & News </a>- Add any Association/Server ID and get Stats
+5. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Gome </a>- Game Stats Tools & News. Add any Association/Server ID and get Stats
 6. <a href="https://avavt.github.io/gotstats/" target="_blank" rel="nofollow noopener noreferrer">OGS Stats Tool</a> 
 7. <a href="https://shawnsgogroup.com/ogs-stats" target="_blank" rel="nofollow noopener noreferrer">OGS Stats Tool by Shawn Ray</a>
 8. <a href="https://play.baduk.org/" target="_blank" rel="nofollow noopener noreferrer">Check your rank from this quiz.</a>
@@ -118,6 +118,7 @@ date: 2024-12-30 00:00:00 +0530
 23. <a href="https://play.google.com/store/apps/details?id=com.romans.go.lifeordeath" target="_blank" rel="nofollow noopener noreferrer">Go: The Infinite Path</a>
 24. <a href="https://play.google.com/store/apps/details?id=kr.or.baduk.lob" target="_blank" rel="nofollow noopener noreferrer">Legend of Baduk</a>
 25. <a href="https://seizethestones.com/" target="_blank" rel="nofollow noopener noreferrer">Seize The Stones</a> - Fun Puzzles
+26. <a href="https://www.19x19.com/engine/index" target="_blank" rel="nofollow noopener noreferrer">Golaxy</a> - Love the Whole Board Tsumegos. <a href="https://play.google.com/store/apps/details?id=com.golaxy.mobile&hl=en_IN" target="_blank" rel="nofollow noopener noreferrer">Golaxy Android App</a>
 
 ## Online Communities
 
