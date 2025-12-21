@@ -45,6 +45,7 @@ date: 2024-12-30 00:00:00 +0530
 23. <a href="https://gotoeveryone.k2ss.info/" target="_blank" rel="nofollow noopener noreferrer">Go to Everyone</a> - Latest News
 1. <a href="https://gotoeveryone.k2ss.info" target="_blank" rel="nofollow noopener noreferrer">Go to Everyone</a>
 2. <a href="https://gome.at/" target="_blank" rel="nofollow noopener noreferrer">Gome </a>- Latest Go related News
+45. <a href="https://cyberoro.com/" target="_blank" rel="nofollow noopener noreferrer">cyberoro </a>- Korean Go News & Kifu
 
 ## Tools [(See More)](/posts/tools/)
 
@@ -90,12 +91,10 @@ date: 2024-12-30 00:00:00 +0530
 
 1. <a href="https://ai-sensei.com/" target="_blank" rel="nofollow noopener noreferrer">AI Sensei</a> – Review your games with AI according to your level
 2. <a href="https://github.com/sanderland/katrain/releases/latest" target="_blank" rel="nofollow noopener noreferrer">Katrain</a> – A Software that uses KataGo AI to train you. I love the teaching games feature.
-3. <a href="https://github.com/featurecat/lizzie/releases/latest" target="_blank" rel="nofollow noopener noreferrer">Lizzie</a> – A GUI for LeelaZero AI
 4. <a href="https://www.19x19.com/engine/index" target="_blank" rel="nofollow noopener noreferrer">Golaxy</a> - China's popular AI training tool. <a href="https://play.google.com/store/apps/details?id=com.golaxy.mobile&hl=en_IN" target="_blank" rel="nofollow noopener noreferrer">Golaxy Android App</a>
 5. <a href="https://321go.org/home/" target="_blank" rel="nofollow noopener noreferrer">321Go</a>
 6. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview" target="_blank" rel="nofollow noopener noreferrer">AhQ Go: AI Analysis for Android</a>
 7. <a href="https://play.google.com/store/apps/details?id=net.kir.baduk_ai" target="_blank" rel="nofollow noopener noreferrer">Baduk AI Android</a>
-8. <a href="https://www.zbaduk.com/tools" target="_blank" rel="nofollow noopener noreferrer">ZBaduk</a> - Similar features like AI Sensei
 9. <a href="https://pazoff.itch.io/go" target="_blank" rel="nofollow noopener noreferrer">Kata Tutor in Browser</a> - Similar to Katrain
 
 ## Video Channels [(See More)](/posts/video-lectures/)
@@ -138,6 +137,7 @@ date: 2024-12-30 00:00:00 +0530
 4. <a href="https://9x9go.github.io/superhuman/icover.html" target="_blank" rel="nofollow noopener noreferrer">The Art of 9 x 9 Go, Superhuman Edition</a>
 5. <a href="https://gotimes.substack.com/" target="_blank" rel="nofollow noopener noreferrer">Online Magazine</a>
 6. <a href="https://dfan.org/blog/posts/" target="_blank" rel="nofollow noopener noreferrer">dfan's Go Blog/Guide</a>
+7. <a href="https://pubhtml5.com/urwkg/dzzr/" target="_blank" rel="nofollow noopener noreferrer">3 Fundamentals and 5 Rules - The Game of Go Through the Eyes of a Bot</a>
 
 ## Paid(& Freemium) Stuff
 

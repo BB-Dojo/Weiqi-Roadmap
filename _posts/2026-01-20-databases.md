@@ -2,7 +2,7 @@
 title: Databases for Go/Baduk/Weiqi
 description: Online Databases for Go/Baduk/Weiqi
 categories: [The Online Resources, Database]
-tags: [database, games, patterns]
+tags: [database, games, patterns, game records]
 date: 2026-01-20 00:00:00 +0530
 ---
 
@@ -31,3 +31,6 @@ date: 2026-01-20 00:00:00 +0530
 21. <a href="https://gopatterns.uk/" target="_blank" rel="nofollow noopener noreferrer">Go Patterns</a>
 22. <a href="https://eidogo.com/" target="_blank" rel="nofollow noopener noreferrer">EidoGo</a>(Outdated Joseki Database)
 23. <a href="https://gotoeveryone.k2ss.info/" target="_blank" rel="nofollow noopener noreferrer">Go to Everyone</a> - Latest News
+24. <a href="https://homepages.cwi.nl/~aeb/go/games/games/" target="_blank" rel="nofollow noopener noreferrer">SGF records of Japanese professional go games</a>
+25. <a href="https://igo-kifu.com/" target="_blank" rel="nofollow noopener noreferrer">Japanese Game Database and News</a>
+26. <a href="https://godb.shogidb2.com/en" target="_blank" rel="nofollow noopener noreferrer">Japanese Game Database</a>

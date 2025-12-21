@@ -1,8 +1,8 @@
 ---
-title: Video Lectures
-description: Online Databases for Go/Baduk/Weiqi
-categories: [The Online Resources, Database]
-tags: [database, games, patterns]
+title: Videos/Lectures for Go/Baduk/Weiqi
+description: Online Video Channels & Platforms for Go/Baduk/Weiqi
+categories: [The Online Resources, Videos]
+tags: [videos, youtube, twitch]
 date: 2026-03-20 00:00:00 +0530
 ---
 
@@ -45,3 +45,4 @@ date: 2026-03-20 00:00:00 +0530
 35. <a href="https://www.youtube.com/@gowithfanaro" target="_blank" rel="nofollow noopener noreferrer">Go with Philippe Fanaro</a>
 36. <a href="https://www.youtube.com/@zchenmike/" target="_blank" rel="nofollow noopener noreferrer">Michael Chen 1P</a>
 37. <a href="https://www.youtube.com/@InGoWeLoved/" target="_blank" rel="nofollow noopener noreferrer">In Go We Loved</a> - Jacky Zhao 5D
+38. <a href="https://resigning-in-sente.github.io/translations/2025/09/28/baduk-formulas/" target="_blank" rel="nofollow noopener noreferrer">Baduk Formulas Series</a>

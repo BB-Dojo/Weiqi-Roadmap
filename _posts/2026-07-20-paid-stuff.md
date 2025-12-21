@@ -1,8 +1,8 @@
 ---
-title: Paid Stuff
-description: Online Databases for Go/Baduk/Weiqi
-categories: [The Online Resources, Database]
-tags: [database, games, patterns]
+title: Paid Go/Baduk/Weiqi Platforms & Softwares
+description: Paid Stuff for Go/Baduk/Weiqi
+categories: [The Online Resources, Paid]
+tags: [premium, paid, freemium]
 date: 2026-07-20 00:00:00 +0530
 ---
 
@@ -23,4 +23,7 @@ date: 2026-07-20 00:00:00 +0530
 12. <a href="https://www.patreon.com/yoonyoung" target="_blank" rel="nofollow noopener noreferrer">Yoonyoung Kim's</a> Patreon.
 13. <a href="https://kazsensei.com/" target="_blank" rel="nofollow noopener noreferrer">Kaz Sensei's</a> Online School
 14. <a href="https://go4jigs.eu/" target="_blank" rel="nofollow noopener noreferrer">Jena International Go School</a>
-15. <a href="https://zxnashx.itch.io/beginner-go-game" target="_blank" rel="nofollow noopener noreferrer">Companion Baduk</a> - Paid
+15. <a href="https://zxnashx.itch.io/beginner-go-game" target="_blank" rel="nofollow noopener noreferrer">Companion Baduk</a>
+16. <a href="https://www.algorithmicartisan.com/gostones/" target="_blank" rel="nofollow noopener noreferrer">Exotic Go Stones</a>
+17. <a href="https://www.redbubble.com/shop/baduk+posters" target="_blank" rel="nofollow noopener noreferrer">Go Posters</a>
+18. <a href="https://gogodonline.co.uk/" target="_blank" rel="nofollow noopener noreferrer">Games of Go on Disk</a>

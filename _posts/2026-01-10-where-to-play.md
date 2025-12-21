@@ -30,3 +30,7 @@ date: 2026-01-10 00:00:00 +0530
 20. <a href="https://dipgo.net/about" target="_blank" rel="nofollow noopener noreferrer">Diplomatic GO</a> - Variant
 21. <a href="https://baduk.club/map/" target="_blank" rel="nofollow noopener noreferrer">Baduk.Club</a> - Find Players/Places for offline games.
 22. <a href="https://jdespland.itch.io/weiqi-dungeon" target="_blank" rel="nofollow noopener noreferrer">Weiqi Dungeon</a>
+23. <a href="https://www.goblocks.online/" target="_blank" rel="nofollow noopener noreferrer">Go Tetris</a>
+24. <a href="https://okonomichiyaki.github.io/josekle/" target="_blank" rel="nofollow noopener noreferrer">Josekle</a> : Guess Joseki of the Day
+25. <a href="https://playgogame.org/" target="_blank" rel="nofollow noopener noreferrer">Play against Cosumi</a> : 7x7 - 19x19, 30k - 3d
+26. <a href="https://maksimkorzh.github.io/cmkgo/" target="_blank" rel="nofollow noopener noreferrer">CMKGo</a>
