@@ -1,5 +1,5 @@
 ---
-title: Databases for Go/Baduk/Weiqi
+title: Databases/Directories for Go/Baduk/Weiqi
 description: Online Databases for Go/Baduk/Weiqi
 categories: [The Online Resources, Database]
 tags: [database, games, patterns, game records]

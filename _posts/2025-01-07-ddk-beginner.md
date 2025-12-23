@@ -3,7 +3,7 @@ title: Your 25 Kyu Roadmap - Mastering Go for Complete Beginners
 description: A step-by-step guide for complete beginners to learn the rules, etiquette, and strategies of Go. Achieve 25 Kyu with ease!
 categories: [DDK Menu]
 tags: [go rules, beginner guide, learn go, etiquette, puzzles, go game tutorial, 9x9]
-date: 2025-01-01 00:00:00 +0530
+date: 2025-01-07 00:00:00 +0530
 ---
 
 > **Recommended Completion Time:** 2 Weeks  
@@ -36,7 +36,6 @@ Expand your understanding with these video resources:
 1. <a href="https://gomagic.org/courses/go-rules/" target="_blank" rel="nofollow noopener noreferrer">Crash Course</a> by Go Magic: A concise and engaging video series covering Go basics.
 2. <a href="https://youtube.com/playlist?list=PL4DLlaT_bvDG5y6WSfXU8cQsTsb4o3YnT&si=RI-5KXMm2W_zs40y" target="_blank" rel="nofollow noopener noreferrer">Go Basics Series</a> by Go Magic: Start from scratch and build a solid foundation in Go.
 3. <a href="https://baduktube.soumyak4.in/collection/1" target="_blank">Clossi Approach 9x9 Series</a>
-   - Read full <a href="https://shawnsgogroup.com/clossi_approach" target="_blank">Clossi Approach Article</a>
 4. **Here We GO Lecture Series**:
   - <a href="https://youtube.com/playlist?list=PLsIslX1eRChKX-lLgRQQJiXpKRASE46Bb&si=q7cp3u7IjAY-WNdW" target="_blank" rel="nofollow noopener noreferrer">Chapter 0 : Rules</a>
   - <a href="https://youtube.com/playlist?list=PLsIslX1eRChLKaZhzT6skMr33Jw3kV95E&si=_JYqZQhDTcgGY9z8" target="_blank" rel="nofollow noopener noreferrer">Chapter 1 : Capture</a>
