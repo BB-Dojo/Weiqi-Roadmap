@@ -60,6 +60,7 @@ After completing the steps above, it's time to play!
    - Focus on applying what you've learned in each game.  
    - Analyze your games to identify patterns and mistakes. 
    - Try not to play more than 5 ranked games each week.
+2. After your games to better understand your mistakes please ask in <a href="https://forums.online-go.com/c/teaching/reviews-requests/" target="_blank" rel="nofollow noopener noreferrer">OGS Forum Reviews</a> with your game link.
   
 ---
  

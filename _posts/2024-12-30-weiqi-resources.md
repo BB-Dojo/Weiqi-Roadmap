@@ -87,7 +87,7 @@ date: 2024-12-30 00:00:00 +0530
 7. <a href="https://discord.gg/89Kf6EM2sS" target="_blank" rel="nofollow noopener noreferrer">BenKyo Baduk HQ</a>
 8. <a href="https://discord.gg/aHNgWj7HRz" target="_blank" rel="nofollow noopener noreferrer">Open Study Room</a>
 
-## AI
+## AI [(See More)](/posts/ai/)
 
 1. <a href="https://ai-sensei.com/" target="_blank" rel="nofollow noopener noreferrer">AI Sensei</a> – Review your games with AI according to your level
 2. <a href="https://github.com/sanderland/katrain/releases/latest" target="_blank" rel="nofollow noopener noreferrer">Katrain</a> – A Software that uses KataGo AI to train you. I love the teaching games feature.
@@ -139,7 +139,7 @@ date: 2024-12-30 00:00:00 +0530
 6. <a href="https://dfan.org/blog/posts/" target="_blank" rel="nofollow noopener noreferrer">dfan's Go Blog/Guide</a>
 7. <a href="https://pubhtml5.com/urwkg/dzzr/" target="_blank" rel="nofollow noopener noreferrer">3 Fundamentals and 5 Rules - The Game of Go Through the Eyes of a Bot</a>
 
-## Paid(& Freemium) Stuff
+## Paid(& Freemium) Stuff [(See More)](/posts/paid-stuff/)
 
 1. <a href="https://www.smartgo.com/" target="_blank" rel="nofollow noopener noreferrer">SmartGO One</a>: Apple/iOS/MacOS only. 
 2. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.pro" target="_blank" rel="nofollow noopener noreferrer">AhQ Go Pro: AI Analysis for Android with Photo Recognition & Game Reports</a>

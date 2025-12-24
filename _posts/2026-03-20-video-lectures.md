@@ -46,3 +46,4 @@ date: 2026-03-20 00:00:00 +0530
 36. <a href="https://www.youtube.com/@zchenmike/" target="_blank" rel="nofollow noopener noreferrer">Michael Chen 1P</a>
 37. <a href="https://www.youtube.com/@InGoWeLoved/" target="_blank" rel="nofollow noopener noreferrer">In Go We Loved</a> - Jacky Zhao 5D
 38. <a href="https://resigning-in-sente.github.io/translations/2025/09/28/baduk-formulas/" target="_blank" rel="nofollow noopener noreferrer">Baduk Formulas Series</a>
+39. <a href="https://explorebaduk.com/ebaduktv" target="_blank" rel="nofollow noopener noreferrer">eBadukTV Lectures</a>
