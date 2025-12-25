@@ -11,7 +11,7 @@ date: 2024-12-25 00:00:00 +0530
 > Moving forward, I'll request you to be patient and keep studying everyday! **If you are unable to play, make sure you're solving atleast 5 Puzzles(Tsumego) daily.**
 {: .prompt-warning}
 
-> **Consider Installing the Roadmap PWA for faster access & a smoother experience.**
+> **Consider <button id="install-pwa-yes">Installing</button> the Roadmap PWA for faster access & a smoother experience.**
 {: .prompt-tip}
 <b>And as we always say before starting our games, Good Luck, Have Fun!!</b>
 <hr>

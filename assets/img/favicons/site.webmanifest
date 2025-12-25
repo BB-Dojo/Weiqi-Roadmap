@@ -107,6 +107,32 @@ layout: compress
           "type": "image/png"
         }
       ]
+    },
+    {
+      "name": "Categories",
+      "short_name": "Cats",
+      "description": "Browse Categories",
+      "url": "{{ '/categories' | relative_url }}",
+      "icons": [
+        {
+          "src": "{{ favicon_path }}/android-chrome-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Tags",
+      "short_name": "Tags",
+      "description": "Browse Tags",
+      "url": "{{ '/tags' | relative_url }}",
+      "icons": [
+        {
+          "src": "{{ favicon_path }}/android-chrome-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
     }
   ]
 }
