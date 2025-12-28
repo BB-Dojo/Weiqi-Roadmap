@@ -34,4 +34,4 @@ date: 2026-01-20 00:00:00 +0530
 24. <a href="https://homepages.cwi.nl/~aeb/go/games/games/" target="_blank" rel="nofollow noopener noreferrer">SGF records of Japanese professional go games</a>
 25. <a href="https://igo-kifu.com/" target="_blank" rel="nofollow noopener noreferrer">Japanese Game Database and News</a>
 26. <a href="https://godb.shogidb2.com/en" target="_blank" rel="nofollow noopener noreferrer">Japanese Game Database</a>
-22. <a href="https://en.1200igo.com/" target="_blank" rel="nofollow noopener noreferrer">Tesuji, Tsumego, Fuseki, Yose, Terminology, Proverbs DB</a>
+27. <a href="https://en.1200igo.com/" target="_blank" rel="nofollow noopener noreferrer">Tesuji, Tsumego, Fuseki, Yose, Terminology, Proverbs DB</a>
