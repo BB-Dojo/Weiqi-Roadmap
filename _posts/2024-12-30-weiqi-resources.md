@@ -5,6 +5,9 @@ pin: true
 categories: [The Online Resources]
 tags: [resources, software, server, community, lectures, ai, tools, art, schools]
 date: 2024-12-30 00:00:00 +0530
+image: 
+ path: /assets/img/posts/cafe.jpeg
+ lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/
 ---
 
 > This page lists **most popular/top resources** only. to see full lists click the **SEE MORE** button.

@@ -7,7 +7,7 @@ pin: true
 date: 2024-12-15 00:00:00 +0530
 image: 
  path: /assets/img/posts/goban1.jpg
- lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAx
+ lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/
 ---
 
 ## What Is the Game of Go?

@@ -5,6 +5,9 @@ categories: [Introduction, How to Use the Roadmap]
 tags: [baduk roadmap, weiqi roadmap, learn to play go, go game tutorial, learn go, go game guide]
 pin: true
 date: 2024-12-25 00:00:00 +0530
+image: 
+ path: /assets/img/posts/how.jpg
+ lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/
 ---
 
 > **Remember:**
