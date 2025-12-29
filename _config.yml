@@ -93,7 +93,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 22
+paginate: 50
 
 # ------------ The following options are not recommended to be modified ------------------
 
