@@ -38,7 +38,7 @@ image:
 ## News 
 
 1. <a href="https://gobase.org/" target="_blank" rel="nofollow noopener noreferrer">Go Base</a> - Game Records, News, Study Resources
-2. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Gome </a>- Game Stats Tools & News. Add any Association/Server ID and get Stats
+2. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Gome</a> - Game Stats Tools & News. Add any Association/Server ID and get Stats
 3. <a href="https://gotoeveryone.k2ss.info" target="_blank" rel="nofollow noopener noreferrer">Go to Everyone</a>
 4. <a href="https://www.gochess.cn/" target="_blank" rel="nofollow noopener noreferrer">GoChess: Chinese website for Go news and resources.</a>
 5. <a href="https://goworld-online.com/GOWContents.htm" target="_blank" rel="nofollow noopener noreferrer">Go World Online: Educational Articles</a>
@@ -88,7 +88,7 @@ image:
 5. <a href="https://discord.gg/BsAKBGm53P" target="_blank" rel="nofollow noopener noreferrer">The Online Go Club</a>
 6. <a href="https://discord.gg/muYmybzYce" target="_blank" rel="nofollow noopener noreferrer">Awesome Baduk</a>
 7. <a href="https://discord.gg/89Kf6EM2sS" target="_blank" rel="nofollow noopener noreferrer">BenKyo Baduk HQ</a>
-8. <a href="https://discord.gg/aHNgWj7HRz" target="_blank" rel="nofollow noopener noreferrer">Open Study Room</a>
+8. <a href="https://discord.gg/u7uVF7UV8j" target="_blank" rel="nofollow noopener noreferrer">Lets Go New Year Festival</a>
 
 ## AI [(See More)](/posts/ai/)
 
