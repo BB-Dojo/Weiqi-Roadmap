@@ -88,7 +88,7 @@ image:
 5. <a href="https://discord.gg/BsAKBGm53P" target="_blank" rel="nofollow noopener noreferrer">The Online Go Club</a>
 6. <a href="https://discord.gg/muYmybzYce" target="_blank" rel="nofollow noopener noreferrer">Awesome Baduk</a>
 7. <a href="https://discord.gg/89Kf6EM2sS" target="_blank" rel="nofollow noopener noreferrer">BenKyo Baduk HQ</a>
-8. <a href="https://discord.gg/aHNgWj7HRz" target="_blank" rel="nofollow noopener noreferrer">Open Study Room</a>
+8. <a href="https://discord.gg/u7uVF7UV8j" target="_blank" rel="nofollow noopener noreferrer">Lets Go New Year Festival</a>
 
 ## AI [(See More)](/posts/ai/)
 
