@@ -56,11 +56,13 @@ Develop your tactical skills by solving puzzles:
 ---
 
 After completing the steps above, it's time to play! 
-1. **Play around 50 games** on a 9x9 board with real players or bots, on <a href="https://online-go.com/" target="_blank" rel="nofollow noopener noreferrer">OGS</a> 
+1. Start with <a href="https://gomagic.org/atari-go/" target="_blank" rel="nofollow noopener noreferrer">Atari Go</a> 
+2. Try <a href="https://puyogo.app/en/" target="_blank" rel="nofollow noopener noreferrer">Squishy Go</a> when you want to play against bots
+3.**Play around 50 games** on a 9x9 board with real players or bots, on <a href="https://online-go.com/" target="_blank" rel="nofollow noopener noreferrer">OGS</a> 
    - Focus on applying what you've learned in each game.  
    - Analyze your games to identify patterns and mistakes. 
    - Try not to play more than 5 ranked games each week.
-2. After your games to better understand your mistakes please ask in <a href="https://forums.online-go.com/c/teaching/reviews-requests/" target="_blank" rel="nofollow noopener noreferrer">OGS Forum Reviews</a> with your game link.
+4. After your games to better understand your mistakes please ask in <a href="https://forums.online-go.com/c/teaching/reviews-requests/" target="_blank" rel="nofollow noopener noreferrer">OGS Forum Reviews</a> with your game link.
   
 ---
  
