@@ -38,7 +38,7 @@ image:
 ## News 
 
 1. <a href="https://gobase.org/" target="_blank" rel="nofollow noopener noreferrer">Go Base</a> - Game Records, News, Study Resources
-2. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Gome </a>- Game Stats Tools & News. Add any Association/Server ID and get Stats
+2. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Gome</a> - Game Stats Tools & News. Add any Association/Server ID and get Stats
 3. <a href="https://gotoeveryone.k2ss.info" target="_blank" rel="nofollow noopener noreferrer">Go to Everyone</a>
 4. <a href="https://www.gochess.cn/" target="_blank" rel="nofollow noopener noreferrer">GoChess: Chinese website for Go news and resources.</a>
 5. <a href="https://goworld-online.com/GOWContents.htm" target="_blank" rel="nofollow noopener noreferrer">Go World Online: Educational Articles</a>
