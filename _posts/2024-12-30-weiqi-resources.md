@@ -19,9 +19,9 @@ image:
 2. <a href="https://puyogo.app/en/" target="_blank" rel="nofollow noopener noreferrer">Squishy Go</a> - Cute place to play go against bots. recommended for beginners and kids.
 3. <a href="https://www.foxwq.com/" target="_blank" rel="nofollow noopener noreferrer">Fox Weiqi</a> - has partly translated english client for windows, Android app fully in Chinese.
 4. WeiqiHub - <a href="https://walruswq.com/WeiqiHub" target="_blank" rel="nofollow noopener noreferrer">3rd Party Mac/Windows/Linux & iOS/Android</a> clients for Fox, Tygem & OGS.
-5. Pandanet/IGS(The first Online Go Server) - <a href="https://pandanet-igs.com/communities/pandanet" target="_blank" rel="nofollow noopener noreferrer">Windows/Mac/Linux/Android</a>
+5. Pandanet/IGS - <a href="https://pandanet-igs.com/communities/pandanet" target="_blank" rel="nofollow noopener noreferrer">Windows/Mac/Linux/Android</a>
 6. <a href="https://questgames.net/go13" target="_blank" rel="nofollow noopener noreferrer">Goquest Web</a>, <a href="https://play.google.com/store/apps/details?id=fm.wars.goquest&hl=en" target="_blank" rel="nofollow noopener noreferrer">Android</a> & <a href="https://apps.apple.com/us/app/goquest/id834841918?ls=1" target="_blank" rel="nofollow noopener noreferrer">iOS</a>
-7. <a href="https://explorebaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Explorebaduk</a> - An European up and coming go server with a lot of promising features.
+7. <a href="https://www.playgo.gg/?ref=user-1x5ij25" target="_blank" rel="nofollow noopener noreferrer">PlayGo.GG</a> - The new kid in the block
 8. <a href="https://baduk.club/map/" target="_blank" rel="nofollow noopener noreferrer">Baduk.Club</a> - Find Players/Places for offline games.
 
 ## DataBases [(See More)](/posts/databases/)
@@ -56,8 +56,8 @@ image:
 2. <a href="https://sabaki.yichuanshen.de/" target="_blank" rel="nofollow noopener noreferrer">Sabaki</a> – A SGF Editor 
 3. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Gome </a>- Game Stats Tools & News. Add any Association/Server ID and get Stats
 4. <a href="https://gomagic.org/go-tests/" target="_blank" rel="nofollow noopener noreferrer">Rank & Skill Analysis Test</a>
-5.  <a href="https://github.com/kaya-go/kaya" target="_blank" rel="nofollow noopener noreferrer">KayaGo</a> - Successor of Sabaki
-6. <a href="https://board.tripleko.com/" target="_blank" rel="nofollow noopener noreferrer">Online Board with shared controls</a>
+5.  <a href="https://kayago.app/" target="_blank" rel="nofollow noopener noreferrer">KayaGo</a> - Successor of Sabaki
+6. <a href="https://golab.gg/" target="_blank" rel="nofollow noopener noreferrer">Online Board with shared controls</a>
 7. <a href="https://sgf.raylu.net/" target="_blank" rel="nofollow noopener noreferrer">Play Guess the moves in browser</a>
 8. <a href="https://howdeepisyourgo.org/" target="_blank" rel="nofollow noopener noreferrer">How deep is your go.</a>
 9. <a href="https://github.com/SoumyaK4/OGS-Tampermonkey" target="_blank" rel="nofollow noopener noreferrer">Userscript to personalise OGS Board pages</a>

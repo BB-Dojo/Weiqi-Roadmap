@@ -34,3 +34,6 @@ date: 2026-01-10 00:00:00 +0530
 24. <a href="https://okonomichiyaki.github.io/josekle/" target="_blank" rel="nofollow noopener noreferrer">Josekle</a> : Guess Joseki of the Day
 25. <a href="https://playgogame.org/" target="_blank" rel="nofollow noopener noreferrer">Play against Cosumi</a> : 7x7 - 19x19, 30k - 3d
 26. <a href="https://maksimkorzh.github.io/cmkgo/" target="_blank" rel="nofollow noopener noreferrer">CMKGo</a>
+27. <a href="https://libaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Lichess like Go Server</a>
+28. <a href="https://tactile-go.com/" target="_blank" rel="nofollow noopener noreferrer">Tactile Go Server</a>
+29. <a href="http://toyo-igo.com/" target="_blank" rel="nofollow noopener noreferrer">Tygem Go Server</a> : On Web
