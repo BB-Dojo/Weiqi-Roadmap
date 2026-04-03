@@ -56,8 +56,8 @@ image:
 2. <a href="https://sabaki.yichuanshen.de/" target="_blank" rel="nofollow noopener noreferrer">Sabaki</a> – A SGF Editor 
 3. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Gome </a>- Game Stats Tools & News. Add any Association/Server ID and get Stats
 4. <a href="https://gomagic.org/go-tests/" target="_blank" rel="nofollow noopener noreferrer">Rank & Skill Analysis Test</a>
-5.  <a href="https://github.com/kaya-go/kaya" target="_blank" rel="nofollow noopener noreferrer">KayaGo</a> - Successor of Sabaki
-6. <a href="https://board.tripleko.com/" target="_blank" rel="nofollow noopener noreferrer">Online Board with shared controls</a>
+5.  <a href="https://kayago.app/" target="_blank" rel="nofollow noopener noreferrer">KayaGo</a> - Successor of Sabaki
+6. <a href="https://golab.gg/" target="_blank" rel="nofollow noopener noreferrer">Online Board with shared controls</a>
 7. <a href="https://sgf.raylu.net/" target="_blank" rel="nofollow noopener noreferrer">Play Guess the moves in browser</a>
 8. <a href="https://howdeepisyourgo.org/" target="_blank" rel="nofollow noopener noreferrer">How deep is your go.</a>
 9. <a href="https://github.com/SoumyaK4/OGS-Tampermonkey" target="_blank" rel="nofollow noopener noreferrer">Userscript to personalise OGS Board pages</a>
